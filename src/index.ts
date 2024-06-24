@@ -11,7 +11,6 @@ import sql from 'mssql'
 import nunjucks from 'nunjucks'
 import { z } from 'zod'
 import log from './logger.js'
-import { PersonRouter } from './person_routes.js'
 import { CoursePrepRouter } from './coursePrep_routes.js'
 
 export const app: Express = express()
@@ -27,7 +26,7 @@ export const version = exec("git describe --tags", (error, stdout, stderr) => {
         return 'N/A'
     }
     const version = stdout.trim()
-    log.info(`📚 Grizzly API version: ${version}`)
+    log.info(`📚 CoursePrep service version: ${version}`)
     return version
 })
 
@@ -54,13 +53,11 @@ app.use(express.static('assets'))
 // Templating
 nunjucks.configure('views', {
     express: app,
-    noCache: env.NODE_ENV === 'production' ? false : true,
+    noCache: env.NODE_ENV !== 'production',
 })
 
 // Routes
-app.use('/person', PersonRouter)
-app.use('/course-prep', CoursePrepRouter)
-app.use('/quick-add', QuickAddRouter)
+app.use('/', CoursePrepRouter)
 
 // Master error function
 app.use((err: unknown, _req: Request, res: Response, _next: NextFunction) => {

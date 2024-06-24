@@ -53,7 +53,7 @@ const transports = [
 const Logger = winston.createLogger({
   level: level(),
   levels,
-  defaultMeta: { server: 'grizzly-ts', node_env: process.env.NODE_ENV },
+  defaultMeta: { service: 'course-prep', node_env: process.env.NODE_ENV },
   format,
   transports,
 })
