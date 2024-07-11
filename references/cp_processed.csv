@@ -1,0 +1,649 @@
+acad_org,session,cf_term_id,cf_status,course_subject,course_number,section_number,course_title,cf_course_id,instructor_name,start_date,end_date,bb_course_id,cp_cycle_id
+BUS-SPS,1,1249,Active,BUS,200,"1         ",Introduction to Business,15656,"Merians Penaloza,Diane S",2024-08-28,2024-12-21,SPS01_BUS_200_1249_15656,10
+BUS-SPS,1,1249,Active,BUS,341,"1         ",Ideation and Innovation,30035,"Merians Penaloza,Diane S",2024-08-28,2024-12-21,SPS01_BUS_341_1249_30035,10
+BUS-SPS,1,1249,Active,BUS,410,"1         ",Research Methods for Business,15350,"Wheeler,Adrienne Celeste",2024-08-28,2024-12-21,SPS01_BUS_410_1249_15350,10
+BUS-SPS,1,1249,Active,BUS,610,"1         ",Strat Mktg & Soc Resp Practice,15397,"Merians Penaloza,Diane S",2024-08-28,2024-12-21,SPS01_BUS_610_1249_15397,10
+BUS-SPS,1,1249,Active,BUS,306,"1         ",Managerial Accounting,15560,"Kass-Shraibman,Frimette",2024-08-28,2024-12-21,SPS01_BUS_306_1249_15560,10
+BUS-SPS,1,1249,Active,BUS,210,"1         ",Business Mathematics,15586,"Egbe,Chinyere Emmanuel",2024-08-28,2024-12-21,SPS01_BUS_210_1249_15586,10
+BUS-SPS,1,1249,Active,BUS,301,"1         ",Managerial Economics,15346,"Kapara Boritzer,Milena",2024-08-28,2024-12-21,SPS01_BUS_301_1249_15346,10
+BUS-SPS,1,1249,Active,BUS,340,"1         ",Small Business Mgt & Entrep,15359,"Washington,Christian F",2024-08-28,2024-12-21,SPS01_BUS_340_1249_15359,10
+BUS-SPS,1,1249,Active,BUS,342,"1         ",Entrepreneurial Finance/Financ,30050,"Egbe,Chinyere Emmanuel",2024-08-28,2024-12-21,SPS01_BUS_342_1249_30050,10
+BUS-SPS,1,1249,Active,BUS,605,"1         ",Leadership Development,15563,"Lewis,Jennifer Denise",2024-08-28,2024-12-21,SPS01_BUS_605_1249_15563,10
+BUS-SPS,1,1249,Active,BUS,606,"1         ",Leading Groups and Teams,30053,"Lewis,Jennifer Denise",2024-08-28,2024-12-21,SPS01_BUS_606_1249_30053,10
+BUS-SPS,1,1249,Active,MGMT,680,"1         ",Human Resource Management,15394,"Lewis,Jennifer Denise",2024-08-28,2024-12-21,SPS01_MGMT_680_1249_15394,10
+BUS-SPS,1,1249,Stop Enrl,BUS,410,"2         ",Research Methods for Business,15351,"Alhamis,Innocentus A",2024-08-28,2024-12-21,SPS01_BUS_410_1249_15351,10
+BUS-SPS,1,1249,Active,BUS,345,"1         ",Strategic Electronic Marketing,30051,"Weinstein,Kenneth S",2024-08-28,2024-12-21,SPS01_BUS_345_1249_30051,10
+BUS-SPS,1,1249,Active,BUS,310,"1         ",Found Bus Statistics,15402,"Martinez,Gabriel X",2024-08-28,2024-12-21,SPS01_BUS_310_1249_15402,10
+BUS-SPS,1,1249,Active,BUS,339,"1         ",Sustainability &Green Business,15653,"Sheridan,Michael J",2024-08-28,2024-12-21,SPS01_BUS_339_1249_15653,10
+BUS-SPS,1,1249,Stop Enrl,BUS,200,"2         ",Introduction to Business,15657,"Romanitch,Jonah J",2024-08-28,2024-12-21,SPS01_BUS_200_1249_15657,10
+BUS-SPS,1,1249,Active,BUS,305,"2         ",Accounting Fundamentals,15368,"Napolitano,Paul S",2024-08-28,2024-12-21,SPS01_BUS_305_1249_15368,10
+BUS-SPS,1,1249,Active,BUS,305,"3         ",Accounting Fundamentals,15371,"Napolitano,Paul S",2024-08-28,2024-12-21,SPS01_BUS_305_1249_15371,10
+BUS-SPS,1,1249,Active,BUS,335,"1         ",Operations Management,15376,"Romanitch,Jonah J",2024-08-28,2024-12-21,SPS01_BUS_335_1249_15376,10
+BUS-SPS,1,1249,Active,BUS,210,"2         ",Business Mathematics,15587,"Shepard,Frank A.",2024-08-28,2024-12-21,SPS01_BUS_210_1249_15587,10
+BUS-SPS,1,1249,Active,BUS,310,"2         ",Found Bus Statistics,15403,"Sterns,Anthony A",2024-08-28,2024-12-21,SPS01_BUS_310_1249_15403,10
+BUS-SPS,1,1249,Active,BUS,320,"2         ",Principles of Management,15354,"Clanton,Tamica R",2024-08-28,2024-12-21,SPS01_BUS_320_1249_15354,10
+BUS-SPS,1,1249,Active,BUS,320,"3         ",Principles of Management,15355,"Clanton,Tamica R",2024-08-28,2024-12-21,SPS01_BUS_320_1249_15355,10
+BUS-SPS,1,1249,Stop Enrl,BUS,330,"2         ",Business Law I,15343,"Jacobs,Michael A",2024-08-28,2024-12-21,SPS01_BUS_330_1249_15343,10
+BUS-SPS,1,1249,Stop Enrl,BUS,610,"2         ",Strat Mktg & Soc Resp Practice,15398,"Ronisky,Carlos D",2024-08-28,2024-12-21,SPS01_BUS_610_1249_15398,10
+BUS-SPS,1,1249,Active,BUS,660,"1         ",Corp & Intnl Finance,15392,"Shepard,Frank A.",2024-08-28,2024-12-21,SPS01_BUS_660_1249_15392,10
+BUS-SPS,1,1249,Active,MGMT,681,"1         ",Financial Management,15363,"Shepard,Frank A.",2024-08-28,2024-12-21,SPS01_MGMT_681_1249_15363,10
+BUS-SPS,1,1249,Active,BUS,325,"3         ",Principles of M I S,15356,"Karanja,Erastus",2024-08-28,2024-12-21,SPS01_BUS_325_1249_15356,10
+BUS-SPS,1,1249,Active,BUS,330,"1         ",Business Law I,15342,"Ayoung,Kimberly",2024-08-28,2024-12-21,SPS01_BUS_330_1249_15342,10
+BUS-SPS,1,1249,Active,BUS,470,"1         ",Strategic Management,15705,"Sherman,Herbert",2024-08-28,2024-12-21,SPS01_BUS_470_1249_15705,10
+BUS-SPS,1,1249,Active,BUS,470,"2         ",Strategic Management,15711,"Sherman,Herbert",2024-08-28,2024-12-21,SPS01_BUS_470_1249_15711,10
+BUS-SPS,1,1249,Active,BUS,650,"1         ",Knowledge & Info Systems,15334,"Cerbone,Frank S",2024-08-28,2024-12-21,SPS01_BUS_650_1249_15334,10
+BUS-SPS,1,1249,Active,CIS,101,"1         ",Cmptr Fundmntls & Applic,15323,"Figueroa,Sandra",2024-08-28,2024-12-21,SPS01_CIS_101_1249_15323,10
+BUS-SPS,1,1249,Active,BUS,210,"3         ",Business Mathematics,15588,"Hauser,David I",2024-08-28,2024-12-21,SPS01_BUS_210_1249_15588,10
+BUS-SPS,1,1249,Active,BUS,315,"1         ",Principles of Marketing,15336,"Whitney,Mary R",2024-08-28,2024-12-21,SPS01_BUS_315_1249_15336,10
+BUS-SPS,1,1249,Active,BUS,315,"2         ",Principles of Marketing,15337,"Jackson,Sharne",2024-08-28,2024-12-21,SPS01_BUS_315_1249_15337,10
+BUS-SPS,1,1249,Active,BUS,333,"2         ",Corporation Finance,15341,"Hauser,Jeffrey",2024-08-28,2024-12-21,SPS01_BUS_333_1249_15341,10
+BUS-SPS,1,1249,Active,BUS,346,"1         ",Investments,15332,"Hauser,Jeffrey",2024-08-28,2024-12-21,SPS01_BUS_346_1249_15332,10
+BUS-SPS,1,1249,Active,BUS,600,"1         ",Org Behavior & Leadership,15372,"Ridley,Linda L",2024-08-28,2024-12-21,SPS01_BUS_600_1249_15372,10
+BUS-SPS,1,1249,Active,BUS,670,"1         ",Quantitative Decision-Making,15400,"Hauser,David I",2024-08-28,2024-12-21,SPS01_BUS_670_1249_15400,10
+BUS-SPS,1,1249,Active,ECO,202,"1         ",Macroeconomics,15365,"Moussavi,Faime",2024-08-28,2024-12-21,SPS01_ECO_202_1249_15365,10
+BUS-SPS,1,1249,Active,ECO,202,"2         ",Macroeconomics,15367,"Moussavi,Faime",2024-08-28,2024-12-21,SPS01_ECO_202_1249_15367,10
+BUS-SPS,1,1249,Active,BUS,305,"1         ",Accounting Fundamentals,15370,"Mayer,Roger W",2024-08-28,2024-12-21,SPS01_BUS_305_1249_15370,10
+BUS-SPS,1,1249,Active,BUS,325,"1         ",Principles of M I S,15358,"Izen,Curtis E",2024-08-28,2024-12-21,SPS01_BUS_325_1249_15358,10
+BUS-SPS,1,1249,Active,BUS,325,"2         ",Principles of M I S,15357,"Izen,Curtis E",2024-08-28,2024-12-21,SPS01_BUS_325_1249_15357,10
+BUS-SPS,1,1249,Active,BUS,336,"1         ",Special Topics in Business,30033,"Abbu,Haroon R",2024-08-28,2024-12-21,SPS01_BUS_336_1249_30033,10
+BUS-SPS,1,1249,Active,BUS,410,"3         ",Research Methods for Business,15352,"Vadell,Jamiel",2024-08-28,2024-12-21,SPS01_BUS_410_1249_15352,10
+BUS-SPS,1,1249,Active,BUS,605,"2         ",Leadership Development,15562,"Vadell,Jamiel",2024-08-28,2024-12-21,SPS01_BUS_605_1249_15562,10
+BUS-SPS,1,1249,Active,BUS,680,"1         ",Econ For Bus Decisions,15327,"Queneau,Herve",2024-08-28,2024-12-21,SPS01_BUS_680_1249_15327,10
+BUS-SPS,1,1249,Active,CIS,101,"2         ",Cmptr Fundmntls & Applic,15322,"Vaughn,Martha",2024-08-28,2024-12-21,SPS01_CIS_101_1249_15322,10
+BUS-SPS,1,1249,Active,CIS,101,"3         ",Cmptr Fundmntls & Applic,15326,"Jones,William",2024-08-28,2024-12-21,SPS01_CIS_101_1249_15326,10
+BUS-SPS,1,1249,Active,BUS,320,"1         ",Principles of Management,15353,"Irby,Derek C",2024-08-28,2024-12-21,SPS01_BUS_320_1249_15353,10
+BUS-SPS,1,1249,Active,BUS,335,"2         ",Operations Management,15377,"Liu,Shuguang",2024-08-28,2024-12-21,SPS01_BUS_335_1249_15377,10
+BUS-SPS,1,1249,Active,BUS,600,"2         ",Org Behavior & Leadership,15373,"Irby,Derek C",2024-08-28,2024-12-21,SPS01_BUS_600_1249_15373,10
+BUS-SPS,1,1249,Active,BUS,697,"1         ",Global Strategic Management,15672,"Resnik,Jim W",2024-08-28,2024-12-21,SPS01_BUS_697_1249_15672,10
+BUS-SPS,1,1249,Active,BUS,697,"2         ",Global Strategic Management,15671,"Resnik,Jim W",2024-08-28,2024-12-21,SPS01_BUS_697_1249_15671,10
+BUS-SPS,1,1249,Active,BUS,321,"1         ",Human Resource Management,15626,"Neftci,Ulas",2024-08-28,2024-12-21,SPS01_BUS_321_1249_15626,10
+BUS-SPS,1,1249,Active,BUS,331,"1         ",Global Business,15364,"Vakil,Arash",2024-08-28,2024-12-21,SPS01_BUS_331_1249_15364,10
+BUS-SPS,1,1249,Active,BUS,333,"1         ",Corporation Finance,15340,"Foy,Joseph",2024-08-28,2024-12-21,SPS01_BUS_333_1249_15340,10
+BUS-SPS,1,1249,Active,BUS,640,"1         ",Accounting for Bus Decisions,15404,"Foy,Joseph",2024-08-28,2024-12-21,SPS01_BUS_640_1249_15404,10
+BUS-SPS,1,1249,Tentative,BUS,210,"4         ",Business Mathematics,15585,NULL,2024-08-28,2024-12-21,SPS01_BUS_210_1249_15585,10
+COMM-SPS,1,1249,Active,CM,311,"1         ",Writing for Digital Media,15662,"Jacobs,Sarah Ruth Upton",2024-08-28,2024-12-21,SPS01_CM_311_1249_15662,10
+COMM-SPS,1,1249,Active,CM,311,"2         ",Writing for Digital Media,15665,"Jacobs,Sarah Ruth Upton",2024-08-28,2024-12-21,SPS01_CM_311_1249_15665,10
+COMM-SPS,1,1249,Active,CM,203,"3         ",Intro Communications & Media,29846,"Palladino,Andrew D.",2024-08-28,2024-12-21,SPS01_CM_203_1249_29846,10
+COMM-SPS,1,1249,Active,CM,304,"1         ",The Mediated Globe,29857,"Gardener,Bradley S",2024-08-28,2024-12-21,SPS01_CM_304_1249_29857,10
+COMM-SPS,1,1249,Active,CM,316,"1         ",Film History,15476,"McCormick,Casey J",2024-08-28,2024-12-21,SPS01_CM_316_1249_15476,10
+COMM-SPS,1,1249,Active,CM,320,"1         ",Digital Storytelling,15436,"Garcia,Courtney E",2024-08-28,2024-12-21,SPS01_CM_320_1249_15436,10
+COMM-SPS,1,1249,Active,CM,490,"1         ",Topics-Comm and Media,15543,"Garcia,Courtney E",2024-08-28,2024-12-21,SPS01_CM_490_1249_15543,10
+COMM-SPS,1,1249,Active,CM,490,"3         ",Topics-Comm and Media,44513,"McCormick,Casey J",2024-08-28,2024-12-21,SPS01_CM_490_1249_44513,10
+COMM-SPS,1,1249,Active,CM,499,"2         ",Communication & Media Capstone,15542,"Panzarella,Joseph",2024-08-28,2024-12-21,SPS01_CM_499_1249_15542,10
+COMM-SPS,1,1249,Active,CM,310,"1         ",Visual Communication,15479,"Richardson,James",2024-08-28,2024-12-21,SPS01_CM_310_1249_15479,10
+COMM-SPS,1,1249,Active,CM,312,"1         ",Social Media,15478,"Richardson,James",2024-08-28,2024-12-21,SPS01_CM_312_1249_15478,10
+COMM-SPS,1,1249,Active,CM,302,"1         ",Web Design,15546,"Troshani,Jetmir",2024-08-28,2024-12-21,SPS01_CM_302_1249_15546,10
+COMM-SPS,1,1249,Active,CM,301,"1         ",Mass Media Ethics,15547,"Breslin,John J",2024-08-28,2024-12-21,SPS01_CM_301_1249_15547,10
+COMM-SPS,1,1249,Active,CM,306,"1         ",Studies in Mass Communication,15545,"Breslin,John J",2024-08-28,2024-12-21,SPS01_CM_306_1249_15545,10
+COMM-SPS,1,1249,Active,CM,203,"1         ",Intro Communications & Media,15548,"Dunson,Janet",2024-08-28,2024-12-21,SPS01_CM_203_1249_15548,10
+COMM-SPS,1,1249,Active,CM,203,"2         ",Intro Communications & Media,15549,"Dunson,Janet",2024-08-28,2024-12-21,SPS01_CM_203_1249_15549,10
+COMM-SPS,1,1249,Active,CM,311,"3         ",Writing for Digital Media,29855,"Sossi,Dino D",2024-08-28,2024-12-21,SPS01_CM_311_1249_29855,10
+COMM-SPS,1,1249,Active,CM,333,"1         ",Corporate Communication,15664,"Sossi,Dino D",2024-08-28,2024-12-21,SPS01_CM_333_1249_15664,10
+COMM-SPS,1,1249,Active,CM,309,"1         ",Communication-Cultural Change,15544,"Hien,Nina M",2024-08-28,2024-12-21,SPS01_CM_309_1249_15544,10
+COMM-SPS,1,1249,Active,CM,499,"1         ",Communication & Media Capstone,15540,"Hien,Nina M",2024-08-28,2024-12-21,SPS01_CM_499_1249_15540,10
+COMM-SPS,1,1249,Cancelled,CM,312,"2         ",Social Media,15477,NULL,2024-08-28,2024-12-21,SPS01_CM_312_1249_15477,10
+COMM-SPS,1,1249,Cancelled,CM,324,"1         ",Data Analytics & Visualization,15433,NULL,2024-08-28,2024-12-21,SPS01_CM_324_1249_15433,10
+COMM-SPS,1,1249,Cancelled,CM,490,"2         ",Topics-Comm and Media,29856,NULL,2024-08-28,2024-12-21,SPS01_CM_490_1249_29856,10
+COMM-SPS,1,1249,Stop Enrl,CM,499,"3         ",Communication & Media Capstone,15541,NULL,2024-08-28,2024-12-21,SPS01_CM_499_1249_15541,10
+DATA-SPS,1,1249,Active,IS,210,"1         ",Software App Prog I,15622,"Guillen,Javier Alexis",2024-08-28,2024-12-21,SPS01_IS_210_1249_15622,10
+DATA-SPS,1,1249,Active,DATA,624,"1         ",Predictive Analytics,15519,"Nieman,Jeffrey Scott",2024-08-28,2024-12-21,SPS01_DATA_624_1249_15519,10
+DATA-SPS,1,1249,Active,DATA,624,"2         ",Predictive Analytics,53525,"Nieman,Jeffrey Scott",2024-08-28,2024-12-21,SPS01_DATA_624_1249_53525,10
+DATA-SPS,1,1249,Active,IS,205,"2         ",IT Infrastructure and Support,15594,"Krahenbill,Clifton L",2024-08-28,2024-12-21,SPS01_IS_205_1249_15594,10
+DATA-SPS,1,1249,Active,IS,380,"3         ",Geographic Information Systems,15598,"Adewunmi,Olubunmi F",2024-08-28,2024-12-21,SPS01_IS_380_1249_15598,10
+DATA-SPS,1,1249,Active,DATA,602,"1         ",Adv Programming Techniques,15539,"Schettini,Nicholas",2024-08-28,2024-12-21,SPS01_DATA_602_1249_15539,10
+DATA-SPS,1,1249,Active,DATA,602,"2         ",Adv Programming Techniques,15538,"Schettini,Nicholas",2024-08-28,2024-12-21,SPS01_DATA_602_1249_15538,10
+DATA-SPS,1,1249,Active,IS,260,"1         ",Ntwks & Bus Data Comm,15620,"Rambarran,Jeremy A",2024-08-28,2024-12-21,SPS01_IS_260_1249_15620,10
+DATA-SPS,1,1249,Active,IS,320,"3         ",Systems Analysis and Design,15616,"Rambarran,Jeremy A",2024-08-28,2024-12-21,SPS01_IS_320_1249_15616,10
+DATA-SPS,1,1249,Active,IS,324,"1         ",Fdns and Apps of Blockchain,15406,"Kangas,Christopher",2024-08-28,2024-12-21,SPS01_IS_324_1249_15406,10
+DATA-SPS,1,1249,Active,IS,324,"2         ",Fdns and Apps of Blockchain,48884,"Kangas,Christopher",2024-08-28,2024-12-21,SPS01_IS_324_1249_48884,10
+DATA-SPS,1,1249,Active,IS,374,"1         ",Bus Desgn/Workflow,15602,"Driscoll,Michael W",2024-08-28,2024-12-21,SPS01_IS_374_1249_15602,10
+DATA-SPS,1,1249,Active,IS,374,"2         ",Bus Desgn/Workflow,15603,"Driscoll,Michael W",2024-08-28,2024-12-21,SPS01_IS_374_1249_15603,10
+DATA-SPS,1,1249,Active,IS,380,"1         ",Geographic Information Systems,15600,"Gardener,Bradley S",2024-08-28,2024-12-21,SPS01_IS_380_1249_15600,10
+DATA-SPS,1,1249,Active,IS,380,"2         ",Geographic Information Systems,15599,"Gardener,Bradley S",2024-08-28,2024-12-21,SPS01_IS_380_1249_15599,10
+DATA-SPS,1,1249,Active,DATA,605,"1         ",Computational Mathematics,15536,"Fulton,Lawrence V",2024-08-28,2024-12-21,SPS01_DATA_605_1249_15536,10
+DATA-SPS,1,1249,Active,DATA,605,"2         ",Computational Mathematics,15535,"Fulton,Lawrence V",2024-08-28,2024-12-21,SPS01_DATA_605_1249_15535,10
+DATA-SPS,1,1249,Active,DATA,608,"2         ",Knowledge and Visual Analytics,15528,"Fulton,Lawrence V",2024-08-28,2024-12-21,SPS01_DATA_608_1249_15528,10
+DATA-SPS,1,1249,Active,DATA,621,"1         ",Data Mining,15521,"Edwards,Jeffrey L",2024-08-28,2024-12-21,SPS01_DATA_621_1249_15521,10
+DATA-SPS,1,1249,Active,DATA,604,"1         ",Simulation and Modeling Tech,15537,"Jorge Pagan,Jose",2024-08-28,2024-12-21,SPS01_DATA_604_1249_15537,10
+DATA-SPS,1,1249,Active,DATA,607,"1         ",Data Acquisition & Management,15530,"Catlin,Andrew G",2024-08-28,2024-12-21,SPS01_DATA_607_1249_15530,10
+DATA-SPS,1,1249,Active,DATA,607,"2         ",Data Acquisition & Management,15531,"Kowalchuk,Peter",2024-08-28,2024-12-21,SPS01_DATA_607_1249_15531,10
+DATA-SPS,1,1249,Active,DATA,608,"1         ",Knowledge and Visual Analytics,15527,"Kowalchuk,Peter",2024-08-28,2024-12-21,SPS01_DATA_608_1249_15527,10
+DATA-SPS,1,1249,Active,DATA,698,"1         ",Master's Research Project,15524,"O'Connor,Arthur",2024-08-28,2024-12-21,SPS01_DATA_698_1249_15524,10
+DATA-SPS,1,1249,Active,DATA,698,"2         ",Master's Research Project,15526,"Sheikh,Jamiel H",2024-08-28,2024-12-21,SPS01_DATA_698_1249_15526,10
+DATA-SPS,1,1249,Active,DATA,698,"3         ",Master's Research Project,15525,"Khansari,Nasrin",2024-08-28,2024-12-21,SPS01_DATA_698_1249_15525,10
+DATA-SPS,1,1249,Active,IS,200,"1         ",Foundations of Info Systems,15623,"Snead,Charles V",2024-08-28,2024-12-21,SPS01_IS_200_1249_15623,10
+DATA-SPS,1,1249,Active,IS,200,"2         ",Foundations of Info Systems,15624,"Snead,Charles V",2024-08-28,2024-12-21,SPS01_IS_200_1249_15624,10
+DATA-SPS,1,1249,Active,IS,200,"3         ",Foundations of Info Systems,17612,"Nardelli,Robert",2024-08-28,2024-12-21,SPS01_IS_200_1249_17612,10
+DATA-SPS,1,1249,Active,IS,211,"1         ",Software App Prog II,15621,"Ledonwong,Alain",2024-08-28,2024-12-21,SPS01_IS_211_1249_15621,10
+DATA-SPS,1,1249,Active,IS,250,"1         ",Computer and Network Security,15595,"Bouma Jr,John J",2024-08-28,2024-12-21,SPS01_IS_250_1249_15595,10
+DATA-SPS,1,1249,Active,IS,250,"2         ",Computer and Network Security,15593,"Hernandez,Felix",2024-08-28,2024-12-21,SPS01_IS_250_1249_15593,10
+DATA-SPS,1,1249,Active,IS,320,"2         ",Systems Analysis and Design,15617,"Thapaliya,Rajan",2024-08-28,2024-12-21,SPS01_IS_320_1249_15617,10
+DATA-SPS,1,1249,Active,IS,330,"1         ",Logistics/Sup Chain Mgmt,15605,"Khansari,Nasrin",2024-08-28,2024-12-21,SPS01_IS_330_1249_15605,10
+DATA-SPS,1,1249,Active,IS,330,"2         ",Logistics/Sup Chain Mgmt,15604,"Thapaliya,Rajan",2024-08-28,2024-12-21,SPS01_IS_330_1249_15604,10
+DATA-SPS,1,1249,Active,IS,350,"2         ",I S Strat/Mgmt/Acquistn,15591,"Kowalchuk,Peter",2024-08-28,2024-12-21,SPS01_IS_350_1249_15591,10
+DATA-SPS,1,1249,Active,IS,499,"1         ",Information  Systems Capstone,15611,"Mills,Patrick O",2024-08-28,2024-12-21,SPS01_IS_499_1249_15611,10
+DATA-SPS,1,1249,Active,IS,499,"2         ",Information  Systems Capstone,15610,"Snead,Charles V",2024-08-28,2024-12-21,SPS01_IS_499_1249_15610,10
+DATA-SPS,1,1249,Active,IS,499,"4         ",Information  Systems Capstone,15614,"Mills,Patrick O",2024-08-28,2024-12-21,SPS01_IS_499_1249_15614,10
+DATA-SPS,1,1249,Active,DATA,622,"1         ",Machine Learning and Big Data,15518,"Sabelja,Joseph",2024-08-28,2024-12-21,SPS01_DATA_622_1249_15518,10
+DATA-SPS,1,1249,Active,DATA,622,"2         ",Machine Learning and Big Data,15792,"Sabelja,Joseph",2024-08-28,2024-12-21,SPS01_DATA_622_1249_15792,10
+DATA-SPS,1,1249,Active,IS,300,"2         ",Enterprise Arch/Apps,15619,"Green,Bobbie J",2024-08-28,2024-12-21,SPS01_IS_300_1249_15619,10
+DATA-SPS,1,1249,Active,IS,374,"3         ",Bus Desgn/Workflow,15601,"Amarjit,Arya V",2024-08-28,2024-12-21,SPS01_IS_374_1249_15601,10
+DATA-SPS,1,1249,Active,IS,350,"1         ",I S Strat/Mgmt/Acquistn,15592,"Alam,Iftekhar",2024-08-28,2024-12-21,SPS01_IS_350_1249_15592,10
+DATA-SPS,1,1249,Active,IS,499,"3         ",Information  Systems Capstone,15613,"Alam,Iftekhar",2024-08-28,2024-12-21,SPS01_IS_499_1249_15613,10
+DATA-SPS,1,1249,Active,DATA,606,"2         ",Statistics and Probability,15532,"Lui,Angela M",2024-08-28,2024-12-21,SPS01_DATA_606_1249_15532,10
+DATA-SPS,1,1249,Active,IS,361,"1         ",Database Arch & Programming,15561,"Khan,Sabrina",2024-08-28,2024-12-21,SPS01_IS_361_1249_15561,10
+DATA-SPS,1,1249,Active,DATA,606,"1         ",Statistics and Probability,15533,"Bryer,Jason",2024-08-28,2024-12-21,SPS01_DATA_606_1249_15533,10
+DATA-SPS,1,1249,Active,IS,205,"1         ",IT Infrastructure and Support,15596,"Adams,Ejaz",2024-08-28,2024-12-21,SPS01_IS_205_1249_15596,10
+DATA-SPS,1,1249,Active,IS,320,"1         ",Systems Analysis and Design,15618,"Adams,Ejaz",2024-08-28,2024-12-21,SPS01_IS_320_1249_15618,10
+DATA-SPS,1,1249,Active,DATA,606,"3         ",Statistics and Probability,15534,NULL,2024-08-28,2024-12-21,SPS01_DATA_606_1249_15534,10
+DATA-SPS,1,1249,Cancelled,DATA,606,"4         ",Statistics and Probability,53619,NULL,2024-08-28,2024-12-21,SPS01_DATA_606_1249_53619,10
+DATA-SPS,1,1249,Active,DATA,607,"3         ",Data Acquisition & Management,15529,NULL,2024-08-28,2024-12-21,SPS01_DATA_607_1249_15529,10
+DATA-SPS,1,1249,Cancelled,DATA,607,"4         ",Data Acquisition & Management,53620,NULL,2024-08-28,2024-12-21,SPS01_DATA_607_1249_53620,10
+DATA-SPS,1,1249,Cancelled,DATA,618,"1         ",Quantitative Finance,15523,NULL,2024-08-28,2024-12-21,SPS01_DATA_618_1249_15523,10
+DATA-SPS,1,1249,Tentative,DATA,621,"2         ",Data Mining,15522,NULL,2024-08-28,2024-12-21,SPS01_DATA_621_1249_15522,10
+DATA-SPS,1,1249,Active,IS,320,"4         ",Systems Analysis and Design,15615,NULL,2024-08-28,2024-12-21,SPS01_IS_320_1249_15615,10
+DATA-SPS,1,1249,Active,IS,326,"1         ",E-Commerce for I S,15607,NULL,2024-08-28,2024-12-21,SPS01_IS_326_1249_15607,10
+DATA-SPS,1,1249,Active,IS,326,"2         ",E-Commerce for I S,15606,NULL,2024-08-28,2024-12-21,SPS01_IS_326_1249_15606,10
+DATA-SPS,1,1249,Active,IS,362,"1         ",Data Acquisition and Mgmt,15504,NULL,2024-08-28,2024-12-21,SPS01_IS_362_1249_15504,10
+DATA-SPS,1,1249,Active,IS,380,"4         ",Geographic Information Systems,15597,NULL,2024-08-28,2024-12-21,SPS01_IS_380_1249_15597,10
+DATA-SPS,1,1249,Tentative,IS,499,"5         ",Information  Systems Capstone,15612,NULL,2024-08-28,2024-12-21,SPS01_IS_499_1249_15612,10
+DATA-SPS,1,1249,Tentative,IS,499,"6         ",Information  Systems Capstone,15609,NULL,2024-08-28,2024-12-21,SPS01_IS_499_1249_15609,10
+DATA-SPS,1,1249,Tentative,IS,499,"7         ",Information  Systems Capstone,15608,NULL,2024-08-28,2024-12-21,SPS01_IS_499_1249_15608,10
+DSAB-SPS,1,1249,Active,DSAB,200,"1         ",Disability and Society,15793,"Luke,Leah Beth Samples",2024-08-28,2024-12-21,SPS01_DSAB_200_1249_15793,10
+DSAB-SPS,1,1249,Active,DSAB,605,"1         ",Disability and Diversity,15811,"Beckwith,Ruthie-Marie",2024-08-28,2024-12-21,SPS01_DSAB_605_1249_15811,10
+DSAB-SPS,1,1249,Active,DSSV,617,"1         ",Universal Design in Higher Edu,15820,"Burgstahler,Sheryl E.",2024-08-28,2024-12-21,SPS01_DSSV_617_1249_15820,10
+DSAB-SPS,1,1249,Active,DSAB,213,"1         ",Transition and Adulthood,15798,"Gould,Margaret Jane",2024-08-28,2024-12-21,SPS01_DSAB_213_1249_15798,10
+DSAB-SPS,1,1249,Active,DSAB,624,"1         ",Disab Srvcs Admin,15814,"Gould,Margaret Jane",2024-08-28,2024-12-21,SPS01_DSAB_624_1249_15814,10
+DSAB-SPS,1,1249,Active,DSAB,626,"1         ",Disability Law and Policy,15815,"Belluscio,Maureen E",2024-08-28,2024-12-21,SPS01_DSAB_626_1249_15815,10
+DSAB-SPS,1,1249,Active,DSAB,626,"2         ",Disability Law and Policy,53827,"Belluscio,Maureen E",2024-08-28,2024-12-21,SPS01_DSAB_626_1249_53827,10
+DSAB-SPS,1,1249,Active,DSAB,201,"1         ",Disability and Embodiment,15794,"Nelb Sinecka,Jitka",2024-08-28,2024-12-21,SPS01_DSAB_201_1249_15794,10
+DSAB-SPS,1,1249,Active,DSAB,233,"1         ",Behav Hlth Counslng,15801,"Harbus,Neil Stuart",2024-08-28,2024-12-21,SPS01_DSAB_233_1249_15801,10
+DSAB-SPS,1,1249,Active,DSAB,322,"1         ",Tchng Strats & Behave Supports,15804,"Nelb Sinecka,Jitka",2024-08-28,2024-12-21,SPS01_DSAB_322_1249_15804,10
+DSAB-SPS,1,1249,Active,DSAB,331,"1         ",Mntl/Bhvr/Dvlmntl Dis,15805,"Harbus,Neil Stuart",2024-08-28,2024-12-21,SPS01_DSAB_331_1249_15805,10
+DSAB-SPS,1,1249,Active,DSAB,602,"2         ",Embodiment and Disability,51950,"Nelb Sinecka,Jitka",2024-08-28,2024-12-21,SPS01_DSAB_602_1249_51950,10
+DSAB-SPS,1,1249,Active,DSSV,608,"1         ",Neurodiverse Students in Col,15821,"Leber,Jacqueline E",2024-08-28,2024-12-21,SPS01_DSSV_608_1249_15821,10
+DSAB-SPS,1,1249,Active,DSSV,619,"1         ",Accom Outside Classrm,15819,"Shayesteh,Soudabeh",2024-08-28,2024-12-21,SPS01_DSSV_619_1249_15819,10
+DSAB-SPS,1,1249,Active,DSAB,602,"1         ",Embodiment and Disability,15810,"Kasnitz,Deborah J",2024-08-28,2024-12-21,SPS01_DSAB_602_1249_15810,10
+DSAB-SPS,1,1249,Active,DSAB,649,"2         ",Independent Study,53189,"Kasnitz,Deborah J",2024-08-28,2024-12-21,SPS01_DSAB_649_1249_53189,10
+DSAB-SPS,1,1249,Active,DSAB,200,"2         ",Disability and Society,52705,"Ippolito,Stephen",2024-08-28,2024-12-21,SPS01_DSAB_200_1249_52705,10
+DSAB-SPS,1,1249,Active,DSAB,224,"1         ",Inclusion,15800,"Dumoulin,Kristen",2024-08-28,2024-12-21,SPS01_DSAB_224_1249_15800,10
+DSAB-SPS,1,1249,Active,DSAB,499,"1         ",Senior Research Project,15808,"Dumoulin,Kristen",2024-08-28,2024-12-21,SPS01_DSAB_499_1249_15808,10
+DSAB-SPS,1,1249,Active,DSAB,209,"1         ",Disability Narratives,15797,"Brooks,Emily L.",2024-08-28,2024-12-21,SPS01_DSAB_209_1249_15797,10
+DSAB-SPS,1,1249,Active,DSAB,222,"1         ",Autism Narratives,15799,"Brooks,Emily L.",2024-08-28,2024-12-21,SPS01_DSAB_222_1249_15799,10
+DSAB-SPS,1,1249,Active,DSAB,311,"1         ",Person Center Plan,15802,"Liebman,Karen B",2024-08-28,2024-12-21,SPS01_DSAB_311_1249_15802,10
+DSAB-SPS,1,1249,Active,DSAB,342,"1         ",Disab-Film & Lit,15806,"Evans,Cassandra",2024-08-28,2024-12-21,SPS01_DSAB_342_1249_15806,10
+DSAB-SPS,1,1249,Active,DSAB,601,"1         ",Psych Cult Polit Asp of Disab,15809,"Friedman,Mark G",2024-08-28,2024-12-21,SPS01_DSAB_601_1249_15809,10
+DSAB-SPS,1,1249,Active,DSAB,601,"2         ",Psych Cult Polit Asp of Disab,53294,"Friedman,Mark G",2024-08-28,2024-12-21,SPS01_DSAB_601_1249_53294,10
+DSAB-SPS,1,1249,Active,DSAB,611,"1         ",Research Methods,15812,"Marcum,Andrew B",2024-08-28,2024-12-21,SPS01_DSAB_611_1249_15812,10
+DSAB-SPS,1,1249,Active,DSAB,622,"1         ",Media & Disability,15813,"Brooks,Emily L.",2024-08-28,2024-12-21,SPS01_DSAB_622_1249_15813,10
+DSAB-SPS,1,1249,Active,DSAB,627,"1         ",Disability and Narrative,15832,"Evans,Cassandra",2024-08-28,2024-12-21,SPS01_DSAB_627_1249_15832,10
+DSAB-SPS,1,1249,Active,DSAB,629,"1         ",Students w DSAB in Higher Ed,15816,"Nielson,Karen E",2024-08-28,2024-12-21,SPS01_DSAB_629_1249_15816,10
+DSAB-SPS,1,1249,Active,DSAB,649,"1         ",Independent Study,15825,"Nielson,Karen E",2024-08-28,2024-12-21,SPS01_DSAB_649_1249_15825,10
+DSAB-SPS,1,1249,Active,DSAB,699,"1         ",Capstone Course,15826,"Evans,Cassandra",2024-08-28,2024-12-21,SPS01_DSAB_699_1249_15826,10
+DSAB-SPS,1,1249,Active,DSSV,604,"1         ",Legal Aspects-Disability Svcs,15824,"Nielson,Karen E",2024-08-28,2024-12-21,SPS01_DSSV_604_1249_15824,10
+DSAB-SPS,1,1249,Active,DSAB,207,"1         ","Law, Policy and Disability",15795,"Kelsey,Anne N",2024-08-28,2024-12-21,SPS01_DSAB_207_1249_15795,10
+DSAB-SPS,1,1249,Active,DSAB,207,"2         ","Law, Policy and Disability",53817,"Kelsey,Anne N",2024-08-28,2024-12-21,SPS01_DSAB_207_1249_53817,10
+DSAB-SPS,1,1249,Active,DSSV,606,"1         ",Asst Tech-Higher Educ,15823,"Le Lay,Brian",2024-08-28,2024-12-21,SPS01_DSSV_606_1249_15823,10
+DSAB-SPS,1,1249,Active,DSSV,607,"1         ",HE Disab Svcs Admin,15822,"Tucker,Kevin",2024-08-28,2024-12-21,SPS01_DSSV_607_1249_15822,10
+DSAB-SPS,1,1249,Active,DSSV,699,"1         ",Capstone,15817,"Le Lay,Brian",2024-08-28,2024-12-21,SPS01_DSSV_699_1249_15817,10
+DSAB-SPS,1,1249,Active,DSAB,208,"1         ",Disability in History,15796,NULL,2024-08-28,2024-12-21,SPS01_DSAB_208_1249_15796,10
+DSAB-SPS,1,1249,Active,DSAB,312,"1         ",Support Chld/Adults w Disab,15803,NULL,2024-08-28,2024-12-21,SPS01_DSAB_312_1249_15803,10
+DSAB-SPS,1,1249,Active,DSAB,449,"1         ",Internship,15807,NULL,2024-08-28,2024-12-21,SPS01_DSAB_449_1249_15807,10
+DSAB-SPS,1,1249,Active,DSAB,649,"3         ",Independent Study,53229,NULL,2024-08-28,2024-12-21,SPS01_DSAB_649_1249_53229,10
+DSAB-SPS,1,1249,Tentative,DSAB,699,"2         ",Capstone Course,37167,NULL,2024-08-28,2024-12-21,SPS01_DSAB_699_1249_37167,10
+DSAB-SPS,1,1249,Active,DSSV,649,"1         ",Independent Study,15818,NULL,2024-08-28,2024-12-21,SPS01_DSSV_649_1249_15818,10
+DSAB-SPS,1,1249,Tentative,DSSV,699,"2         ",Capstone,47048,NULL,2024-08-28,2024-12-21,SPS01_DSSV_699_1249_47048,10
+ECLD-SPS,1,1249,Active,EDUC,203,"1         ","Prog, Prof & Family Dynamics",27853,"Corey,Jeannette Marie",2024-08-28,2024-12-21,SPS01_EDUC_203_1249_27853,10
+ECLD-SPS,1,1249,Active,EDUC,203,"3         ","Prog, Prof & Family Dynamics",27884,"Corey,Jeannette Marie",2024-08-28,2024-12-21,SPS01_EDUC_203_1249_27884,10
+ECLD-SPS,1,1249,Active,EDUC,201,"3         ",Observing Devel Young Chld,27843,"Torres Marrero,Emily",2024-08-28,2024-12-21,SPS01_EDUC_201_1249_27843,10
+ECLD-SPS,1,1249,Active,EDUC,201,"2         ",Observing Devel Young Chld,27842,"Mack-Brown,Keshon C",2024-08-28,2024-12-21,SPS01_EDUC_201_1249_27842,10
+ECLD-SPS,1,1249,Active,EDUC,203,"2         ","Prog, Prof & Family Dynamics",27854,"Mack-Brown,Keshon C",2024-08-28,2024-12-21,SPS01_EDUC_203_1249_27854,10
+ECLD-SPS,4W3,1249,Active,ECE,608,"1         ",Expenses & Resources,29975,"Pettinicchi,Jenna E",2024-11-11,2024-12-08,SPS01_ECE_608_1249_29975,10
+ECLD-SPS,1,1249,Active,EDUC,203,"4         ","Prog, Prof & Family Dynamics",27856,"Povemba,Sheridan A",2024-08-28,2024-12-21,SPS01_EDUC_203_1249_27856,10
+ECLD-SPS,4W1,1249,Active,ECE,602,"1         ",Personnel Management,29985,"Povemba,Sheridan A",2024-09-16,2024-10-13,SPS01_ECE_602_1249_29985,10
+ECLD-SPS,4W3,1249,Active,ECE,604,"1         ",Supv of ECE Teachers,29987,"Spinks-King,Pamela",2024-11-11,2024-12-08,SPS01_ECE_604_1249_29987,10
+ECLD-SPS,1,1249,Active,EDUC,200,"2         ",Development Birth - 5 Years,27838,"Nedderman,Wanda O",2024-08-28,2024-12-21,SPS01_EDUC_200_1249_27838,10
+ECLD-SPS,1,1249,Active,EDUC,202,"3         ",Curric & Learn Environments,27848,"Nedderman,Wanda O",2024-08-28,2024-12-21,SPS01_EDUC_202_1249_27848,10
+ECLD-SPS,1,1249,Active,EDUC,200,"1         ",Development Birth - 5 Years,27825,"Zaita,Jacqueline",2024-08-28,2024-12-21,SPS01_EDUC_200_1249_27825,10
+ECLD-SPS,1,1249,Active,EDUC,200,"3         ",Development Birth - 5 Years,27839,"Zaita,Jacqueline",2024-08-28,2024-12-21,SPS01_EDUC_200_1249_27839,10
+ECLD-SPS,1,1249,Active,EDUC,202,"1         ",Curric & Learn Environments,27845,"Frazier,Shavon P",2024-08-28,2024-12-21,SPS01_EDUC_202_1249_27845,10
+ECLD-SPS,1,1249,Active,EDUC,202,"2         ",Curric & Learn Environments,27847,"Lareche,Huguette",2024-08-28,2024-12-21,SPS01_EDUC_202_1249_27847,10
+ECLD-SPS,4W1,1249,Active,ECE,606,"1         ",Financial Plan ECE,27858,"Lachar,Camille S",2024-09-16,2024-10-13,SPS01_ECE_606_1249_27858,10
+ECLD-SPS,4W2,1249,Active,ECE,607,"1         ",Budgets and Accounting,29974,"Lachar,Camille S",2024-10-14,2024-11-10,SPS01_ECE_607_1249_29974,10
+ECLD-SPS,1,1249,Active,EDUC,201,"1         ",Observing Devel Young Chld,27827,"Blecker,Alice L",2024-08-28,2024-12-21,SPS01_EDUC_201_1249_27827,10
+ECLD-SPS,1,1249,Active,EDUC,201,"4         ",Observing Devel Young Chld,27844,"Blecker,Alice L",2024-08-28,2024-12-21,SPS01_EDUC_201_1249_27844,10
+ECLD-SPS,1,1249,Active,EDUC,200,"4         ",Development Birth - 5 Years,27841,"Krieger,Gail R",2024-08-28,2024-12-21,SPS01_EDUC_200_1249_27841,10
+ECLD-SPS,1,1249,Active,EDUC,202,"4         ",Curric & Learn Environments,27850,"Krieger,Gail R",2024-08-28,2024-12-21,SPS01_EDUC_202_1249_27850,10
+ECLD-SPS,4W2,1249,Active,ECE,603,"1         ",Staff Development,29986,NULL,2024-10-14,2024-11-10,SPS01_ECE_603_1249_29986,10
+HIM-SPS,1,1249,Active,HESA,369,"1         ",Health Information Technology,15462,"Hoskins-Presbery,Jevon M",2024-08-28,2024-12-21,SPS01_HESA_369_1249_15462,10
+HIM-SPS,1,1249,Active,HESA,369,"3         ",Health Information Technology,15461,"Hoskins-Presbery,Jevon M",2024-08-28,2024-12-21,SPS01_HESA_369_1249_15461,10
+HIM-SPS,1,1249,Active,HIM,605,"1         ",Healthcare Information Systems,15429,"Stefanopoulos,Nicholas",2024-08-28,2024-12-21,SPS01_HIM_605_1249_15429,10
+HIM-SPS,1,1249,Active,HIM,635,"1         ",Healthcare Info/Data Analytics,15425,"Stefanopoulos,Nicholas",2024-08-28,2024-12-21,SPS01_HIM_635_1249_15425,10
+HIM-SPS,1,1249,Active,HIM,340,"1         ",Diagnosis Coding Using ICD,15573,"Benjamin,Christina M",2024-08-28,2024-12-21,SPS01_HIM_340_1249_15573,10
+HIM-SPS,1,1249,Active,HIM,365,"3         ",Management in Health Care,15756,"Colin-Eugene,Marie M",2024-08-28,2024-12-21,SPS01_HIM_365_1249_15756,10
+HIM-SPS,1,1249,Active,HIM,440,"1         ",Advanced Coding,15494,"Benjamin,Christina M",2024-08-28,2024-12-21,SPS01_HIM_440_1249_15494,10
+HIM-SPS,1,1249,Active,BIO,200,"1         ",Biology of the Human Body,15698,"Brown,James William",2024-08-28,2024-12-21,SPS01_BIO_200_1249_15698,10
+HIM-SPS,1,1249,Active,BIO,200,"2         ",Biology of the Human Body,15699,"Brown,James William",2024-08-28,2024-12-21,SPS01_BIO_200_1249_15699,10
+HIM-SPS,1,1249,Active,HIM,210,"4         ",Introduction to Spreadsheets,15419,"Yarbrough,Cynthia M",2024-08-28,2024-12-21,SPS01_HIM_210_1249_15419,10
+HIM-SPS,1,1249,Active,HIM,210,"5         ",Introduction to Spreadsheets,15420,"Yarbrough,Cynthia M",2024-08-28,2024-12-21,SPS01_HIM_210_1249_15420,10
+HIM-SPS,1,1249,Active,HIM,360,"3         ",Priv & Security Health Info,15763,"Yarbrough,Cynthia M",2024-08-28,2024-12-21,SPS01_HIM_360_1249_15763,10
+HIM-SPS,1,1249,Active,HIM,630,"1         ",Healthcare Strat Mgmt/Leadshp,15426,"Kirk,Kathleen Marie",2024-08-28,2024-12-21,SPS01_HIM_630_1249_15426,10
+HIM-SPS,1,1249,Active,HIM,699,"1         ",Capstone,15422,"Kirk,Kathleen Marie",2024-08-28,2024-12-21,SPS01_HIM_699_1249_15422,10
+HIM-SPS,1,1249,Active,PROM,210,"5         ",Project Management,15748,"Widmar Jr,Willard M",2024-08-28,2024-12-21,SPS01_PROM_210_1249_15748,10
+HIM-SPS,1,1249,Active,HIM,205,"2         ",Healthcare Delivery Systems,15659,"Maliavsky,Jordan S",2024-08-28,2024-12-21,SPS01_HIM_205_1249_15659,10
+HIM-SPS,1,1249,Active,HIM,351,"1         ",Prof Practice Experience I,15762,"Faden,Marsha Joan",2024-08-28,2024-12-21,SPS01_HIM_351_1249_15762,10
+HIM-SPS,1,1249,Active,HIM,365,"2         ",Management in Health Care,15758,"Davidson,Sonia M.",2024-08-28,2024-12-21,SPS01_HIM_365_1249_15758,10
+HIM-SPS,1,1249,Active,HIM,370,"1         ",Org Dev/Planning in Hlth Care,15751,"Faden,Marsha Joan",2024-08-28,2024-12-21,SPS01_HIM_370_1249_15751,10
+HIM-SPS,1,1249,Active,HIM,370,"2         ",Org Dev/Planning in Hlth Care,15754,"Faden,Marsha Joan",2024-08-28,2024-12-21,SPS01_HIM_370_1249_15754,10
+HIM-SPS,1,1249,Active,HIM,615,"1         ",Finance&Revenue Mgmt,15430,"Peterson,Kathleen",2024-08-28,2024-12-21,SPS01_HIM_615_1249_15430,10
+HIM-SPS,1,1249,Active,HIM,640,"1         ",Clin Terms/Classif Systems,15424,"Peterson,Kathleen",2024-08-28,2024-12-21,SPS01_HIM_640_1249_15424,10
+HIM-SPS,1,1249,Active,PHE,200,"1         ",Introduction to Public Health,15695,"Carey,Stephanie R",2024-08-28,2024-12-21,SPS01_PHE_200_1249_15695,10
+HIM-SPS,1,1249,Active,PHE,200,"2         ",Introduction to Public Health,15697,"Carey,Stephanie R",2024-08-28,2024-12-21,SPS01_PHE_200_1249_15697,10
+HIM-SPS,1,1249,Active,BIO,310,"3         ",Pathophysiology & Pharmacology,15715,"Stetson,Elliot M",2024-08-28,2024-12-21,SPS01_BIO_310_1249_15715,10
+HIM-SPS,1,1249,Active,HIM,210,"1         ",Introduction to Spreadsheets,15418,"Thomas,Norlene A",2024-08-28,2024-12-21,SPS01_HIM_210_1249_15418,10
+HIM-SPS,1,1249,Active,HIM,210,"3         ",Introduction to Spreadsheets,15417,"Thomas,Norlene A",2024-08-28,2024-12-21,SPS01_HIM_210_1249_15417,10
+HIM-SPS,1,1249,Active,HIM,300,"1         ",Clinical Classification Systs,15660,"Long,Christina E",2024-08-28,2024-12-21,SPS01_HIM_300_1249_15660,10
+HIM-SPS,1,1249,Active,HIM,332,"2         ",Qlty Mgmt & Perform Improv,15766,"Mohlenhoff,Janet",2024-08-28,2024-12-21,SPS01_HIM_332_1249_15766,10
+HIM-SPS,1,1249,Active,HIM,341,"1         ",Procedural Coding,15572,"Long,Christina E",2024-08-28,2024-12-21,SPS01_HIM_341_1249_15572,10
+HIM-SPS,1,1249,Active,HIM,360,"1         ",Priv & Security Health Info,15759,"Pentland,Ellen S",2024-08-28,2024-12-21,SPS01_HIM_360_1249_15759,10
+HIM-SPS,1,1249,Active,HIM,360,"2         ",Priv & Security Health Info,15760,"Pentland,Ellen S",2024-08-28,2024-12-21,SPS01_HIM_360_1249_15760,10
+HIM-SPS,1,1249,Active,HIM,362,"1         ",Healthcare Data Analysis,15496,"D'Errico,Tracy L",2024-08-28,2024-12-21,SPS01_HIM_362_1249_15496,10
+HIM-SPS,1,1249,Active,HIM,441,"1         ",Coding Capstone,15493,"Long,Christina E",2024-08-28,2024-12-21,SPS01_HIM_441_1249_15493,10
+HIM-SPS,1,1249,Active,HIM,610,"1         ","Privacy, Security,Legal Issues",15428,"Mancilla,Desla R",2024-08-28,2024-12-21,SPS01_HIM_610_1249_15428,10
+HIM-SPS,1,1249,Active,HIM,645,"1         ",Information & Data Governance,15423,"Mancilla,Desla R",2024-08-28,2024-12-21,SPS01_HIM_645_1249_15423,10
+HIM-SPS,1,1249,Active,PHE,200,"3         ",Introduction to Public Health,15692,"Fasolino,Theresa",2024-08-28,2024-12-21,SPS01_PHE_200_1249_15692,10
+HIM-SPS,7W2,1249,Active,PROM,601,"1         ",Proj Comm & Leadrshp,15405,"Ouellette,Bethel",2024-10-21,2024-12-11,SPS01_PROM_601_1249_15405,10
+HIM-SPS,7W2,1249,Active,PROM,602,"1         ",Managing Triple Constraints,15362,"Ouellette,Bethel",2024-10-21,2024-12-11,SPS01_PROM_602_1249_15362,10
+HIM-SPS,1,1249,Active,HIM,200,"4         ",Medical Terminology,15777,"Rickerby,Deanna",2024-08-28,2024-12-21,SPS01_HIM_200_1249_15777,10
+HIM-SPS,1,1249,Active,HIM,202,"2         ",Intro to Hlth  Info Mgmt,15772,"Walton,Tara Lee",2024-08-28,2024-12-21,SPS01_HIM_202_1249_15772,10
+HIM-SPS,1,1249,Active,HIM,465,"1         ",Electronic Health Records,15749,"Walton,Tara Lee",2024-08-28,2024-12-21,SPS01_HIM_465_1249_15749,10
+HIM-SPS,1,1249,Active,PROM,210,"1         ",Project Management,15743,"Bendre,Hemant V",2024-08-28,2024-12-21,SPS01_PROM_210_1249_15743,10
+HIM-SPS,1,1249,Active,PROM,210,"2         ",Project Management,15746,"Bendre,Hemant V",2024-08-28,2024-12-21,SPS01_PROM_210_1249_15746,10
+HIM-SPS,1,1249,Active,PROM,600,"1         ",Fundamentals of Project Mgmt,15335,"Bendre,Hemant V",2024-08-28,2024-12-21,SPS01_PROM_600_1249_15335,10
+HIM-SPS,1,1249,Active,HESA,499,"1         ",Hlth Svc Admin Capstone,15457,"Siegert,Mary T",2024-08-28,2024-12-21,SPS01_HESA_499_1249_15457,10
+HIM-SPS,1,1249,Active,HESA,499,"2         ",Hlth Svc Admin Capstone,15456,"Siegert,Mary T",2024-08-28,2024-12-21,SPS01_HESA_499_1249_15456,10
+HIM-SPS,1,1249,Active,HIM,332,"1         ",Qlty Mgmt & Perform Improv,15764,"Faden,Steven A",2024-08-28,2024-12-21,SPS01_HIM_332_1249_15764,10
+HIM-SPS,1,1249,Active,HIM,361,"1         ",Intro To Database Design,15747,"Faden,Steven A",2024-08-28,2024-12-21,SPS01_HIM_361_1249_15747,10
+HIM-SPS,1,1249,Active,BIO,200,"4         ",Biology of the Human Body,15700,"Sulley,Saanie",2024-08-28,2024-12-21,SPS01_BIO_200_1249_15700,10
+HIM-SPS,1,1249,Active,BIO,310,"1         ",Pathophysiology & Pharmacology,15712,"Stetson,Beryl",2024-08-28,2024-12-21,SPS01_BIO_310_1249_15712,10
+HIM-SPS,1,1249,Active,BIO,310,"2         ",Pathophysiology & Pharmacology,15710,"Stetson,Beryl",2024-08-28,2024-12-21,SPS01_BIO_310_1249_15710,10
+HIM-SPS,1,1249,Active,HESA,450,"1         ","Compli, Regs & Legal Issue/HC",15458,"Kaleem,Umar M",2024-08-28,2024-12-21,SPS01_HESA_450_1249_15458,10
+HIM-SPS,1,1249,Active,HESA,450,"2         ","Compli, Regs & Legal Issue/HC",15459,"Cox,Junelle M",2024-08-28,2024-12-21,SPS01_HESA_450_1249_15459,10
+HIM-SPS,1,1249,Active,HESA,450,"3         ","Compli, Regs & Legal Issue/HC",15460,"Cox,Junelle M",2024-08-28,2024-12-21,SPS01_HESA_450_1249_15460,10
+HIM-SPS,1,1249,Active,HIM,202,"1         ",Intro to Hlth  Info Mgmt,15771,"Skarbek,Diana",2024-08-28,2024-12-21,SPS01_HIM_202_1249_15771,10
+HIM-SPS,1,1249,Active,HIM,205,"1         ",Healthcare Delivery Systems,15658,"Aduwo,Mercy A",2024-08-28,2024-12-21,SPS01_HIM_205_1249_15658,10
+HIM-SPS,1,1249,Active,HIM,205,"3         ",Healthcare Delivery Systems,15661,"Smith,Lance J",2024-08-28,2024-12-21,SPS01_HIM_205_1249_15661,10
+HIM-SPS,1,1249,Active,HIM,210,"2         ",Introduction to Spreadsheets,15416,"Dewar,Natanya",2024-08-28,2024-12-21,SPS01_HIM_210_1249_15416,10
+HIM-SPS,1,1249,Active,HIM,250,"1         ",Health Statistics and Research,15767,"Dewar,Natanya",2024-08-28,2024-12-21,SPS01_HIM_250_1249_15767,10
+HIM-SPS,1,1249,Active,HIM,331,"1         ",Legal/Eth Aspect-Healthcare,15769,"Smith,Lance J",2024-08-28,2024-12-21,SPS01_HIM_331_1249_15769,10
+HIM-SPS,1,1249,Active,HIM,350,"1         ",HIM Applications,15761,"Skarbek,Diana",2024-08-28,2024-12-21,SPS01_HIM_350_1249_15761,10
+HIM-SPS,1,1249,Active,HIM,380,"1         ",Reimbursement Methodologies,15750,"Skarbek,Diana",2024-08-28,2024-12-21,SPS01_HIM_380_1249_15750,10
+HIM-SPS,1,1249,Active,HIM,600,"1         ",U.S. Healthcare Delivery,15431,"Kaleem,Umar M",2024-08-28,2024-12-21,SPS01_HIM_600_1249_15431,10
+HIM-SPS,1,1249,Active,HIM,625,"1         ",Heathcare Stat/Resrch Methods,15427,"Ndanga,Memory",2024-08-28,2024-12-21,SPS01_HIM_625_1249_15427,10
+HIM-SPS,1,1249,Active,PHE,200,"4         ",Introduction to Public Health,15694,"Case,Gerard G",2024-08-28,2024-12-21,SPS01_PHE_200_1249_15694,10
+HIM-SPS,1,1249,Active,PROM,210,"3         ",Project Management,15744,"Swaim,James A",2024-08-28,2024-12-21,SPS01_PROM_210_1249_15744,10
+HIM-SPS,1,1249,Active,PROM,210,"4         ",Project Management,15745,"Swaim,James A",2024-08-28,2024-12-21,SPS01_PROM_210_1249_15745,10
+HIM-SPS,7W1,1249,Active,PROM,600,"2         ",Fundamentals of Project Mgmt,15338,"Swaim,James A",2024-08-28,2024-10-18,SPS01_PROM_600_1249_15338,10
+HIM-SPS,1,1249,Active,HIM,200,"1         ",Medical Terminology,15773,"Case,Patrice",2024-08-28,2024-12-21,SPS01_HIM_200_1249_15773,10
+HIM-SPS,1,1249,Active,HIM,200,"2         ",Medical Terminology,15770,"Karl,Ellen S",2024-08-28,2024-12-21,SPS01_HIM_200_1249_15770,10
+HIM-SPS,1,1249,Active,HIM,200,"3         ",Medical Terminology,15774,"Case,Patrice",2024-08-28,2024-12-21,SPS01_HIM_200_1249_15774,10
+HIM-SPS,1,1249,Active,HIM,451,"1         ",Prof Pract Experience II,15752,"Karl,Ellen S",2024-08-28,2024-12-21,SPS01_HIM_451_1249_15752,10
+HIM-SPS,1,1249,Active,BIO,200,"3         ",Biology of the Human Body,15831,"Vasovic,Ana",2024-08-28,2024-12-21,SPS01_BIO_200_1249_15831,10
+HIM-SPS,1,1249,Active,BIO,310,"4         ",Pathophysiology & Pharmacology,15713,"Uzun,Ozcan",2024-08-28,2024-12-21,SPS01_BIO_310_1249_15713,10
+HIM-SPS,1,1249,Active,HESA,369,"2         ",Health Information Technology,15463,"Rose,Joy P",2024-08-28,2024-12-21,SPS01_HESA_369_1249_15463,10
+HIM-SPS,1,1249,Active,BIO,200,"5         ",Biology of the Human Body,15696,NULL,2024-08-28,2024-12-21,SPS01_BIO_200_1249_15696,10
+HIM-SPS,1,1249,Active,BIO,310,"5         ",Pathophysiology & Pharmacology,15714,NULL,2024-08-28,2024-12-21,SPS01_BIO_310_1249_15714,10
+HIM-SPS,1,1249,Active,HIM,200,"5         ",Medical Terminology,15779,NULL,2024-08-28,2024-12-21,SPS01_HIM_200_1249_15779,10
+HIM-SPS,1,1249,Active,HIM,202,"3         ",Intro to Hlth  Info Mgmt,15768,NULL,2024-08-28,2024-12-21,SPS01_HIM_202_1249_15768,10
+HIM-SPS,1,1249,Active,HIM,205,"5         ",Healthcare Delivery Systems,15663,NULL,2024-08-28,2024-12-21,SPS01_HIM_205_1249_15663,10
+HIM-SPS,1,1249,Active,HIM,210,"6         ",Introduction to Spreadsheets,15421,NULL,2024-08-28,2024-12-21,SPS01_HIM_210_1249_15421,10
+HIM-SPS,1,1249,Active,HIM,332,"3         ",Qlty Mgmt & Perform Improv,15765,NULL,2024-08-28,2024-12-21,SPS01_HIM_332_1249_15765,10
+HIM-SPS,1,1249,Active,HIM,360,"4         ",Priv & Security Health Info,15757,NULL,2024-08-28,2024-12-21,SPS01_HIM_360_1249_15757,10
+HIM-SPS,1,1249,Active,HIM,365,"1         ",Management in Health Care,15755,NULL,2024-08-28,2024-12-21,SPS01_HIM_365_1249_15755,10
+HIM-SPS,1,1249,Active,HIM,370,"3         ",Org Dev/Planning in Hlth Care,15753,NULL,2024-08-28,2024-12-21,SPS01_HIM_370_1249_15753,10
+HIM-SPS,1,1249,Active,HIM,600,"2         ",U.S. Healthcare Delivery,15432,NULL,2024-08-28,2024-12-21,SPS01_HIM_600_1249_15432,10
+LARTS-SPS,1,1249,Active,SPAN,101,"2         ",Beginning Spanish I,15374,"Sangurima Quiles,Jeanneth M",2024-08-28,2024-12-21,SPS01_SPAN_101_1249_15374,10
+LARTS-SPS,1,1249,Active,SPAN,110,"2         ",Spanish for Health Professions,15590,"Sangurima Quiles,Jeanneth M",2024-08-28,2024-12-21,SPS01_SPAN_110_1249_15590,10
+LARTS-SPS,1,1249,Active,LBL,498,"1         ",Capstone in Liberal Studies I,15471,"Jacobs,Sarah Ruth Upton",2024-08-28,2024-12-21,SPS01_LBL_498_1249_15471,10
+LARTS-SPS,1,1249,Active,QUAN,201,"2         ",Quant Reason & Society,15690,"Stepp,Elizabeth Fleming",2024-08-28,2024-12-21,SPS01_QUAN_201_1249_15690,10
+LARTS-SPS,1,1249,Active,QUAN,201,"5         ",Quant Reason & Society,15687,"Stepp,Elizabeth Fleming",2024-08-28,2024-12-21,SPS01_QUAN_201_1249_15687,10
+LARTS-SPS,1,1249,Active,COM,210,"2         ",Writing at Work,15680,"Nelson,Bradley Michael",2024-08-28,2024-12-21,SPS01_COM_210_1249_15680,10
+LARTS-SPS,1,1249,Active,COM,210,"7         ",Writing at Work,15685,"Nelson,Bradley Michael",2024-08-28,2024-12-21,SPS01_COM_210_1249_15685,10
+LARTS-SPS,1,1249,Active,COM,210,"10        ",Writing at Work,15686,"Nelson,Bradley Michael",2024-08-28,2024-12-21,SPS01_COM_210_1249_15686,10
+LARTS-SPS,1,1249,Active,BIO,250,"1         ",Tree of Life: Evolution,15495,"Aquino-Gerard,Adriana",2024-08-28,2024-12-21,SPS01_BIO_250_1249_15495,10
+LARTS-SPS,1,1249,Active,ENG,101,"1         ",College Writing I,15391,"Pauliny,Tara Suzanne",2024-08-28,2024-12-21,SPS01_ENG_101_1249_15391,10
+LARTS-SPS,1,1249,Active,GEOG,301,"1         ",International Migration & Ethn,15325,"Cannon,Anita Michele",2024-08-28,2024-12-21,SPS01_GEOG_301_1249_15325,10
+LARTS-SPS,1,1249,Active,GEOG,301,"2         ",International Migration & Ethn,15324,"Cannon,Anita Michele",2024-08-28,2024-12-21,SPS01_GEOG_301_1249_15324,10
+LARTS-SPS,1,1249,Active,PHIL,110,"1         ",Critical Thinking,15706,"Fitzgerald,Michael W",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15706,10
+LARTS-SPS,1,1249,Active,PHIL,110,"4         ",Critical Thinking,15708,"Fitzgerald,Michael W",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15708,10
+LARTS-SPS,1,1249,Active,PHIL,110,"OSP1      ",Critical Thinking,15703,"Fitzgerald,Michael W",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15703,10
+LARTS-SPS,1,1249,Active,ECO,201,"2         ",Microeconomics,15330,"Kouakou,Kafui Koffi",2024-08-28,2024-12-21,SPS01_ECO_201_1249_15330,10
+LARTS-SPS,1,1249,Active,MATH,215,"3         ",Introduction to Statistics,15791,"Kouakou,Kafui Koffi",2024-08-28,2024-12-21,SPS01_MATH_215_1249_15791,10
+LARTS-SPS,1,1249,Active,AMER,200,"1         ",American History & Culture,15673,"Nicholson,Marisa A",2024-08-28,2024-12-21,SPS01_AMER_200_1249_15673,10
+LARTS-SPS,1,1249,Active,AMER,200,"2         ",American History & Culture,15676,"Nicholson,Marisa A",2024-08-28,2024-12-21,SPS01_AMER_200_1249_15676,10
+LARTS-SPS,1,1249,Active,AST,101,"2         ",Introduction to Astronomy,15369,"Faherty,Jacqueline",2024-08-28,2024-12-21,SPS01_AST_101_1249_15369,10
+LARTS-SPS,1,1249,Active,CHEM,101,"1         ",General Chemistry,15625,"Smeureanu,Gabriela",2024-08-28,2024-12-21,SPS01_CHEM_101_1249_15625,10
+LARTS-SPS,1,1249,Active,COM,110,"4         ",Digital Literacy,15383,"Meyerhoff,Ti Zuber",2024-08-28,2024-12-21,SPS01_COM_110_1249_15383,10
+LARTS-SPS,1,1249,Active,COM,110,"7         ",Digital Literacy,15386,"Meyerhoff,Ti Zuber",2024-08-28,2024-12-21,SPS01_COM_110_1249_15386,10
+LARTS-SPS,1,1249,Active,PHIL,110,"7         ",Critical Thinking,15702,"Arakelyan,Kristina",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15702,10
+LARTS-SPS,1,1249,Active,PHIL,302,"2         ",Ethics in the Workplace,15464,"Arakelyan,Kristina",2024-08-28,2024-12-21,SPS01_PHIL_302_1249_15464,10
+LARTS-SPS,1,1249,Active,COM,210,"1         ",Writing at Work,15682,"Schumaker,Richard",2024-08-28,2024-12-21,SPS01_COM_210_1249_15682,10
+LARTS-SPS,1,1249,Active,COM,210,"5         ",Writing at Work,15677,"Schumaker,Richard",2024-08-28,2024-12-21,SPS01_COM_210_1249_15677,10
+LARTS-SPS,1,1249,Active,COM,210,"9         ",Writing at Work,15683,"Schumaker,Richard",2024-08-28,2024-12-21,SPS01_COM_210_1249_15683,10
+LARTS-SPS,1,1249,Active,PHIL,110,"2         ",Critical Thinking,15707,"Robinson,Robert C",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15707,10
+LARTS-SPS,1,1249,Active,PHIL,110,"3         ",Critical Thinking,15709,"Shepard,Kathryn A",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15709,10
+LARTS-SPS,1,1249,Active,PHIL,110,"5         ",Critical Thinking,15704,"Robinson,Robert C",2024-08-28,2024-12-21,SPS01_PHIL_110_1249_15704,10
+LARTS-SPS,1,1249,Active,PHIL,201,"1         ",Bioethics for Health Profess,15556,"Robinson,Robert C",2024-08-28,2024-12-21,SPS01_PHIL_201_1249_15556,10
+LARTS-SPS,1,1249,Active,PHIL,201,"3         ",Bioethics for Health Profess,15558,"Shepard,Kathryn A",2024-08-28,2024-12-21,SPS01_PHIL_201_1249_15558,10
+LARTS-SPS,1,1249,Active,COM,110,"2         ",Digital Literacy,15381,"Crocco,Francesco",2024-08-28,2024-12-21,SPS01_COM_110_1249_15381,10
+LARTS-SPS,1,1249,Active,COM,110,"6         ",Digital Literacy,15385,"Crocco,Francesco",2024-08-28,2024-12-21,SPS01_COM_110_1249_15385,10
+LARTS-SPS,1,1249,Active,COM,110,"10        ",Digital Literacy,15390,"Crocco,Francesco",2024-08-28,2024-12-21,SPS01_COM_110_1249_15390,10
+LARTS-SPS,1,1249,Active,ENG,321,"1         ",Caribbean Literature,48970,"Bernard,Regina A",2024-08-28,2024-12-21,SPS01_ENG_321_1249_48970,10
+LARTS-SPS,1,1249,Active,ENG,350,"2         ",Advanced Composition,15469,"Gray,Stephanie M",2024-08-28,2024-12-21,SPS01_ENG_350_1249_15469,10
+LARTS-SPS,1,1249,Active,MUS,101,"1         ",Music Appreciation,15347,"Phillips,Moses B",2024-08-28,2024-12-21,SPS01_MUS_101_1249_15347,10
+LARTS-SPS,1,1249,Active,QUAN,201,"1         ",Quant Reason & Society,15691,"Berkovich,Zakhar",2024-08-28,2024-12-21,SPS01_QUAN_201_1249_15691,10
+LARTS-SPS,1,1249,Active,QUAN,201,"4         ",Quant Reason & Society,15693,"Sterns,Anthony A",2024-08-28,2024-12-21,SPS01_QUAN_201_1249_15693,10
+LARTS-SPS,1,1249,Active,AMER,200,"3         ",American History & Culture,15674,"Bouton,Brian J.",2024-08-28,2024-12-21,SPS01_AMER_200_1249_15674,10
+LARTS-SPS,1,1249,Active,ANTH,101,"1         ",Introduction to Cultural Anth,15455,"Burke,Charlanne",2024-08-28,2024-12-21,SPS01_ANTH_101_1249_15455,10
+LARTS-SPS,1,1249,Active,COM,110,"11        ",Digital Literacy,15389,"Bouton,Brian J.",2024-08-28,2024-12-21,SPS01_COM_110_1249_15389,10
+LARTS-SPS,1,1249,Active,COM,210,"8         ",Writing at Work,15684,"Bouton,Brian J.",2024-08-28,2024-12-21,SPS01_COM_210_1249_15684,10
+LARTS-SPS,1,1249,Active,COM,210,"11        ",Writing at Work,15675,"Gilroy,Virginia",2024-08-28,2024-12-21,SPS01_COM_210_1249_15675,10
+LARTS-SPS,1,1249,Active,ECO,201,"1         ",Microeconomics,15329,"Battista,Leon J",2024-08-28,2024-12-21,SPS01_ECO_201_1249_15329,10
+LARTS-SPS,1,1249,Active,ECO,201,"3         ",Microeconomics,15331,"Battista,Leon J",2024-08-28,2024-12-21,SPS01_ECO_201_1249_15331,10
+LARTS-SPS,1,1249,Active,ENG,102,"2         ",College Writing II,15361,"Gilroy,Virginia",2024-08-28,2024-12-21,SPS01_ENG_102_1249_15361,10
+LARTS-SPS,1,1249,Active,INT,450,"1         ",Internship,15474,"Broadfoot,Holli",2024-08-28,2024-12-21,SPS01_INT_450_1249_15474,10
+LARTS-SPS,1,1249,Active,MATH,102,"2         ",Math In Contemp Soc,15401,"Mongroo,Chandra",2024-08-28,2024-12-21,SPS01_MATH_102_1249_15401,10
+LARTS-SPS,1,1249,Active,MATH,215,"1         ",Introduction to Statistics,15790,"Mongroo,Chandra",2024-08-28,2024-12-21,SPS01_MATH_215_1249_15790,10
+LARTS-SPS,1,1249,Active,PHIL,201,"2         ",Bioethics for Health Profess,15557,"Evans,Cassandra",2024-08-28,2024-12-21,SPS01_PHIL_201_1249_15557,10
+LARTS-SPS,1,1249,Active,PLA,300,"1         ",Portfolio Development,15688,"Gilroy,Virginia",2024-08-28,2024-12-21,SPS01_PLA_300_1249_15688,10
+LARTS-SPS,1,1249,Active,COM,110,"9         ",Digital Literacy,15388,"Lopez,Beatrice",2024-08-28,2024-12-21,SPS01_COM_110_1249_15388,10
+LARTS-SPS,1,1249,Active,COM,110,"12        ",Digital Literacy,15379,"Quarrell,Susan",2024-08-28,2024-12-21,SPS01_COM_110_1249_15379,10
+LARTS-SPS,1,1249,Active,COM,210,"3         ",Writing at Work,15679,"Lopez,Beatrice",2024-08-28,2024-12-21,SPS01_COM_210_1249_15679,10
+LARTS-SPS,1,1249,Active,COM,210,"4         ",Writing at Work,15681,"Adegbola,Lydia",2024-08-28,2024-12-21,SPS01_COM_210_1249_15681,10
+LARTS-SPS,1,1249,Active,COM,210,"6         ",Writing at Work,15678,"Heiser,Erin E.",2024-08-28,2024-12-21,SPS01_COM_210_1249_15678,10
+LARTS-SPS,1,1249,Active,COM,210,"12        ",Writing at Work,48958,"Adegbola,Lydia",2024-08-28,2024-12-21,SPS01_COM_210_1249_48958,10
+LARTS-SPS,1,1249,Active,ENG,350,"3         ",Advanced Composition,15465,"Quarrell,Susan",2024-08-28,2024-12-21,SPS01_ENG_350_1249_15465,10
+LARTS-SPS,1,1249,Active,HIST,202,"1         ",World Hist 1900-Present,15701,"Getman,Jordi W",2024-08-28,2024-12-21,SPS01_HIST_202_1249_15701,10
+LARTS-SPS,1,1249,Active,ART,202,"OSP1      ",Arts & Civilization II,15339,"Miller,Hannah",2024-08-28,2024-12-21,SPS01_ART_202_1249_15339,10
+LARTS-SPS,1,1249,Active,MATH,215,"2         ",Introduction to Statistics,15787,"Wang,Walter O",2024-08-28,2024-12-21,SPS01_MATH_215_1249_15787,10
+LARTS-SPS,1,1249,Active,QUAN,201,"3         ",Quant Reason & Society,15689,"Wang,Walter O",2024-08-28,2024-12-21,SPS01_QUAN_201_1249_15689,10
+LARTS-SPS,1,1249,Active,ART,201,"1         ",Arts & Civilization I,15393,"Karnet,Susan",2024-08-28,2024-12-21,SPS01_ART_201_1249_15393,10
+LARTS-SPS,1,1249,Active,COM,110,"1         ",Digital Literacy,15380,"Moss,Kathryn",2024-08-28,2024-12-21,SPS01_COM_110_1249_15380,10
+LARTS-SPS,1,1249,Active,COM,110,"3         ",Digital Literacy,15382,"Suiter,Ralph",2024-08-28,2024-12-21,SPS01_COM_110_1249_15382,10
+LARTS-SPS,1,1249,Active,COM,110,"8         ",Digital Literacy,15387,"Suiter,Ralph",2024-08-28,2024-12-21,SPS01_COM_110_1249_15387,10
+LARTS-SPS,1,1249,Active,COM,110,"13        ",Digital Literacy,15378,"Moss,Kathryn",2024-08-28,2024-12-21,SPS01_COM_110_1249_15378,10
+LARTS-SPS,1,1249,Active,ENG,102,"1         ",College Writing II,15360,"Everitt,Ryan",2024-08-28,2024-12-21,SPS01_ENG_102_1249_15360,10
+LARTS-SPS,1,1249,Active,HIST,102,"1         ",Mod World-1500-Presnt,15395,"Zevin,Edward",2024-08-28,2024-12-21,SPS01_HIST_102_1249_15395,10
+LARTS-SPS,1,1249,Active,HIST,102,"2         ",Mod World-1500-Presnt,15396,"Suiter,Ralph",2024-08-28,2024-12-21,SPS01_HIST_102_1249_15396,10
+LARTS-SPS,1,1249,Active,LANG,201,"1         ",Lang-Multicultural Setting,15492,"Cao,Xuan-Nga",2024-08-28,2024-12-21,SPS01_LANG_201_1249_15492,10
+LARTS-SPS,1,1249,Active,LBL,201,"1         ",Pro-Seminar in Liberal Studies,15472,"Everitt,Ryan",2024-08-28,2024-12-21,SPS01_LBL_201_1249_15472,10
+LARTS-SPS,1,1249,Active,LBL,499,"1         ",Capstone in Liberal Studies II,15467,"Everitt,Ryan",2024-08-28,2024-12-21,SPS01_LBL_499_1249_15467,10
+LARTS-SPS,1,1249,Active,POL,201,"1         ",Pol/Govmt of NYC,15333,"Enrico,Maria",2024-08-28,2024-12-21,SPS01_POL_201_1249_15333,10
+LARTS-SPS,1,1249,Active,COM,110,"5         ",Digital Literacy,15384,"Hien,Nina M",2024-08-28,2024-12-21,SPS01_COM_110_1249_15384,10
+LARTS-SPS,1,1249,Active,ENG,102,"3         ",College Writing II,32771,"Kerr,Rachel",2024-08-28,2024-12-21,SPS01_ENG_102_1249_32771,10
+LARTS-SPS,1,1249,Active,ENG,350,"1         ",Advanced Composition,15468,"Kerr,Rachel",2024-08-28,2024-12-21,SPS01_ENG_350_1249_15468,10
+LARTS-SPS,1,1249,Active,ENG,350,"4         ",Advanced Composition,48978,"Kerr,Rachel",2024-08-28,2024-12-21,SPS01_ENG_350_1249_48978,10
+LARTS-SPS,1,1249,Active,PHIL,302,"1         ",Ethics in the Workplace,15466,"Torok,Judit",2024-08-28,2024-12-21,SPS01_PHIL_302_1249_15466,10
+LARTS-SPS,1,1249,Active,SPAN,101,"1         ",Beginning Spanish I,15375,"Park,Alicia",2024-08-28,2024-12-21,SPS01_SPAN_101_1249_15375,10
+LARTS-SPS,1,1249,Active,AST,101,"1         ",Introduction to Astronomy,15366,"Ris,Zohar",2024-08-28,2024-12-21,SPS01_AST_101_1249_15366,10
+LARTS-SPS,1,1249,Active,AST,101,"3         ",Introduction to Astronomy,32770,"Ris,Zohar",2024-08-28,2024-12-21,SPS01_AST_101_1249_32770,10
+LARTS-SPS,1,1249,Active,SPAN,110,"1         ",Spanish for Health Professions,15589,"Henao,Eda",2024-08-28,2024-12-21,SPS01_SPAN_110_1249_15589,10
+LARTS-SPS,1,1249,Active,LBL,201,"2         ",Pro-Seminar in Liberal Studies,15473,NULL,2024-08-28,2024-12-21,SPS01_LBL_201_1249_15473,10
+LARTS-SPS,1,1249,Active,LBL,499,"2         ",Capstone in Liberal Studies II,15470,NULL,2024-08-28,2024-12-21,SPS01_LBL_499_1249_15470,10
+LARTS-SPS,1,1249,Active,MATH,215,"4         ",Introduction to Statistics,15788,NULL,2024-08-28,2024-12-21,SPS01_MATH_215_1249_15788,10
+LARTS-SPS,1,1249,Active,MUS,101,"2         ",Music Appreciation,15344,NULL,2024-08-28,2024-12-21,SPS01_MUS_101_1249_15344,10
+NURS-SPS,1,1249,Active,NURS,303,"1         ",Caring in Communities,15644,"Fievre,Gretha/Leveille-Tulce,Anne Marie Bethe/Okhuahesuyi,Isoken Aminatu/Vilmenay,Marie J",2024-08-28,2024-12-21,SPS01_NURS_303_1249_15644,10
+NURS-SPS,1,1249,Active,NURS,303,"2         ",Caring in Communities,15649,"Cooper-audain,Elizer/Dharsee,Femida/Jones-Pichardo,Renee B/Shockness,Sharon E",2024-08-28,2024-12-21,SPS01_NURS_303_1249_15649,10
+NURS-SPS,1,1249,Active,NURS,461,"1         ",Global Health Issues,15640,"Leveille-Tulce,Anne Marie Bethe",2024-08-28,2024-12-21,SPS01_NURS_461_1249_15640,10
+NURS-SPS,1,1249,Active,NURS,499,"1         ",Nursing Capstone,15630,"Marsala-Cervasio,Kathleen Ann",2024-08-28,2024-12-21,SPS01_NURS_499_1249_15630,10
+NURS-SPS,1,1249,Active,NURS,600,"1         ",Policy and Ethics in Nursing,15489,"Marsala-Cervasio,Kathleen Ann",2024-08-28,2024-12-21,SPS01_NURS_600_1249_15489,10
+NURS-SPS,1,1249,Active,NURS,300,"2         ",Transition to Prof Nursing,15555,"Paradiso,LindaAnn Theresa",2024-08-28,2024-12-21,SPS01_NURS_300_1249_15555,10
+NURS-SPS,1,1249,Active,NURS,622,"1         ",Nursing Quality and Safety Pln,15486,"Paradiso,LindaAnn Theresa",2024-08-28,2024-12-21,SPS01_NURS_622_1249_15486,10
+NURS-SPS,1,1249,Active,NURS,623,"1         ",Transfr Nursing Ldrshp in Comm,15485,"Paradiso,LindaAnn Theresa",2024-08-28,2024-12-21,SPS01_NURS_623_1249_15485,10
+NURS-SPS,1,1249,Active,NURS,350,"2         ",Principles of Nursing Research,15642,"Bartley Daniele,Patricia",2024-08-28,2024-12-21,SPS01_NURS_350_1249_15642,10
+NURS-SPS,1,1249,Active,NURS,610,"1         ",Nursing Curriculum and Program,15481,"Bartley Daniele,Patricia",2024-08-28,2024-12-21,SPS01_NURS_610_1249_15481,10
+NURS-SPS,1,1249,Active,NURS,611,"2         ",Advanced Practice Health Assmt,15488,"Bartley Daniele,Patricia",2024-08-28,2024-12-21,SPS01_NURS_611_1249_15488,10
+NURS-SPS,1,1249,Active,NURS,499,"2         ",Nursing Capstone,15627,"Amicucci,Bernadette J",2024-08-28,2024-12-21,SPS01_NURS_499_1249_15627,10
+NURS-SPS,1,1249,Active,NURS,625,"1         ",Statistics for Advanced Nurs,15475,"McIntosh,Jennifer T",2024-08-28,2024-12-21,SPS01_NURS_625_1249_15475,10
+NURS-SPS,1,1249,Active,NURS,300,"3         ",Transition to Prof Nursing,47745,"Simmons,Anne Marie",2024-08-28,2024-12-21,SPS01_NURS_300_1249_47745,10
+NURS-SPS,1,1249,Active,NURS,499,"5         ",Nursing Capstone,47755,"Erickson,Judith M",2024-08-28,2024-12-21,SPS01_NURS_499_1249_47755,10
+NURS-SPS,1,1249,Active,NURS,303,"4         ",Caring in Communities,15647,"Gongaware,Gail M",2024-08-28,2024-12-21,SPS01_NURS_303_1249_15647,10
+NURS-SPS,1,1249,Active,NURS,499,"3         ",Nursing Capstone,15634,"Deckman,Marsha A",2024-08-28,2024-12-21,SPS01_NURS_499_1249_15634,10
+NURS-SPS,1,1249,Active,NURS,499,"6         ",Nursing Capstone,47757,"Pearlman,Irene R",2024-08-28,2024-12-21,SPS01_NURS_499_1249_47757,10
+NURS-SPS,1,1249,Active,NURS,630,"1         ",Measurement & Eval in Nursing,15480,"Nokes,Kathleen M",2024-08-28,2024-12-21,SPS01_NURS_630_1249_15480,10
+NURS-SPS,1,1249,Active,NURS,499,"4         ",Nursing Capstone,15633,"Cherkis,Frances",2024-08-28,2024-12-21,SPS01_NURS_499_1249_15633,10
+NURS-SPS,1,1249,Active,NURS,626,"1         ",Advanced Nursing Research,15483,"Brady,Kathryn A",2024-08-28,2024-12-21,SPS01_NURS_626_1249_15483,10
+NURS-SPS,7W2,1249,Active,NURS,302,"7W2       ",Health Teaching,30252,"Newton,Connie S",2024-10-23,2024-12-21,SPS01_NURS_302_1249_30252,10
+NURS-SPS,1,1249,Active,NURS,302,"1         ",Health Teaching,15651,"Harris,Kenya D",2024-08-28,2024-12-21,SPS01_NURS_302_1249_15651,10
+NURS-SPS,1,1249,Active,NURS,303,"3         ",Caring in Communities,15648,"Wilson,Deborah",2024-08-28,2024-12-21,SPS01_NURS_303_1249_15648,10
+NURS-SPS,1,1249,Active,NURS,313,"1         ",Nursing Informatics,15646,"Koziol,Karen A",2024-08-28,2024-12-21,SPS01_NURS_313_1249_15646,10
+NURS-SPS,1,1249,Active,NURS,313,"2         ",Nursing Informatics,15645,"Harris,Kenya D",2024-08-28,2024-12-21,SPS01_NURS_313_1249_15645,10
+NURS-SPS,1,1249,Active,NURS,350,"1         ",Principles of Nursing Research,15641,"Harris,Kenya D",2024-08-28,2024-12-21,SPS01_NURS_350_1249_15641,10
+NURS-SPS,1,1249,Active,NURS,616,"1         ",Management of Decision Support,15445,"Dia,Mary Joy S",2024-08-28,2024-12-21,SPS01_NURS_616_1249_15445,10
+NURS-SPS,7W1,1249,Active,NURS,301,"7W1       ",Health Assessment,30249,"Meehan,Carolyn",2024-08-28,2024-10-22,SPS01_NURS_301_1249_30249,10
+NURS-SPS,1,1249,Active,NURS,600,"2         ",Policy and Ethics in Nursing,15490,"Cohen,Barbara",2024-08-28,2024-12-21,SPS01_NURS_600_1249_15490,10
+NURS-SPS,1,1249,Active,NURS,461,"2         ",Global Health Issues,15643,"Chung,Lisa B",2024-08-28,2024-12-21,SPS01_NURS_461_1249_15643,10
+NURS-SPS,1,1249,Active,NURS,615,"1         ",Advanced Nursing Informatics,15484,"Mathew,Lilly",2024-08-28,2024-12-21,SPS01_NURS_615_1249_15484,10
+NURS-SPS,1,1249,Active,NURS,619,"1         ",Nursing Informatics Practicum,15444,"Mathew,Lilly",2024-08-28,2024-12-21,SPS01_NURS_619_1249_15444,10
+NURS-SPS,1,1249,Active,NURS,300,"1         ",Transition to Prof Nursing,15552,"Oosting,Jan",2024-08-28,2024-12-21,SPS01_NURS_300_1249_15552,10
+NURS-SPS,1,1249,Active,NURS,301,"1         ",Health Assessment,15652,"Oosting,Jan",2024-08-28,2024-12-21,SPS01_NURS_301_1249_15652,10
+NURS-SPS,1,1249,Active,NURS,312,"1         ",Intro to Palliative Care,15628,"Oosting,Jan",2024-08-28,2024-12-21,SPS01_NURS_312_1249_15628,10
+NURS-SPS,1,1249,Active,NURS,619,"2         ",Nursing Informatics Practicum,15833,"Kagan,Olga",2024-08-28,2024-12-21,SPS01_NURS_619_1249_15833,10
+NURS-SPS,1,1249,Active,NURS,611,"1         ",Advanced Practice Health Assmt,15487,"Hidle,Unn",2024-08-28,2024-12-21,SPS01_NURS_611_1249_15487,10
+NURS-SPS,1,1249,Cancelled,NURS,300,"4         ",Transition to Prof Nursing,15550,NULL,2024-08-28,2024-12-21,SPS01_NURS_300_1249_15550,10
+NURS-SPS,1,1249,Cancelled,NURS,300,"5         ",Transition to Prof Nursing,15551,NULL,2024-08-28,2024-12-21,SPS01_NURS_300_1249_15551,10
+NURS-SPS,1,1249,Cancelled,NURS,300,"6         ",Transition to Prof Nursing,15553,NULL,2024-08-28,2024-12-21,SPS01_NURS_300_1249_15553,10
+NURS-SPS,1,1249,Cancelled,NURS,300,"7         ",Transition to Prof Nursing,15554,NULL,2024-08-28,2024-12-21,SPS01_NURS_300_1249_15554,10
+NURS-SPS,1,1249,Cancelled,NURS,301,"3         ",Health Assessment,15654,NULL,2024-08-28,2024-12-21,SPS01_NURS_301_1249_15654,10
+NURS-SPS,1,1249,Cancelled,NURS,301,"4         ",Health Assessment,15655,NULL,2024-08-28,2024-12-21,SPS01_NURS_301_1249_15655,10
+NURS-SPS,1,1249,Cancelled,NURS,302,"2         ",Health Teaching,15650,NULL,2024-08-28,2024-12-21,SPS01_NURS_302_1249_15650,10
+NURS-SPS,1,1249,Cancelled,NURS,302,"3         ",Health Teaching,17281,NULL,2024-08-28,2024-12-21,SPS01_NURS_302_1249_17281,10
+NURS-SPS,1,1249,Cancelled,NURS,303,"5         ",Caring in Communities,17282,NULL,2024-08-28,2024-12-21,SPS01_NURS_303_1249_17282,10
+NURS-SPS,1,1249,Cancelled,NURS,312,"2         ",Intro to Palliative Care,17283,NULL,2024-08-28,2024-12-21,SPS01_NURS_312_1249_17283,10
+NURS-SPS,1,1249,Cancelled,NURS,312,"3         ",Intro to Palliative Care,17284,NULL,2024-08-28,2024-12-21,SPS01_NURS_312_1249_17284,10
+NURS-SPS,1,1249,Cancelled,NURS,313,"3         ",Nursing Informatics,17285,NULL,2024-08-28,2024-12-21,SPS01_NURS_313_1249_17285,10
+NURS-SPS,1,1249,Cancelled,NURS,314,"1         ",Case Mgmt Health Services,15559,NULL,2024-08-28,2024-12-21,SPS01_NURS_314_1249_15559,10
+NURS-SPS,1,1249,Cancelled,NURS,314,"2         ",Case Mgmt Health Services,17286,NULL,2024-08-28,2024-12-21,SPS01_NURS_314_1249_17286,10
+NURS-SPS,1,1249,Cancelled,NURS,314,"3         ",Case Mgmt Health Services,17287,NULL,2024-08-28,2024-12-21,SPS01_NURS_314_1249_17287,10
+NURS-SPS,1,1249,Cancelled,NURS,350,"3         ",Principles of Nursing Research,17288,NULL,2024-08-28,2024-12-21,SPS01_NURS_350_1249_17288,10
+NURS-SPS,1,1249,Cancelled,NURS,461,"3         ",Global Health Issues,17289,NULL,2024-08-28,2024-12-21,SPS01_NURS_461_1249_17289,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"7         ",Nursing Capstone,15629,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15629,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"8         ",Nursing Capstone,15631,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15631,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"9         ",Nursing Capstone,15632,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15632,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"10        ",Nursing Capstone,15635,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15635,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"11        ",Nursing Capstone,15636,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15636,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"12        ",Nursing Capstone,15637,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15637,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"13        ",Nursing Capstone,15638,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15638,10
+NURS-SPS,1,1249,Cancelled,NURS,499,"14        ",Nursing Capstone,15639,NULL,2024-08-28,2024-12-21,SPS01_NURS_499_1249_15639,10
+NURS-SPS,1,1249,Cancelled,NURS,600,"3         ",Policy and Ethics in Nursing,17290,NULL,2024-08-28,2024-12-21,SPS01_NURS_600_1249_17290,10
+NURS-SPS,1,1249,Cancelled,NURS,610,"2         ",Nursing Curriculum and Program,17291,NULL,2024-08-28,2024-12-21,SPS01_NURS_610_1249_17291,10
+NURS-SPS,1,1249,Cancelled,NURS,610,"3         ",Nursing Curriculum and Program,17292,NULL,2024-08-28,2024-12-21,SPS01_NURS_610_1249_17292,10
+NURS-SPS,1,1249,Cancelled,NURS,611,"3         ",Advanced Practice Health Assmt,17293,NULL,2024-08-28,2024-12-21,SPS01_NURS_611_1249_17293,10
+NURS-SPS,1,1249,Cancelled,NURS,615,"2         ",Advanced Nursing Informatics,17294,NULL,2024-08-28,2024-12-21,SPS01_NURS_615_1249_17294,10
+NURS-SPS,1,1249,Cancelled,NURS,615,"3         ",Advanced Nursing Informatics,17295,NULL,2024-08-28,2024-12-21,SPS01_NURS_615_1249_17295,10
+NURS-SPS,1,1249,Cancelled,NURS,616,"2         ",Management of Decision Support,17296,NULL,2024-08-28,2024-12-21,SPS01_NURS_616_1249_17296,10
+NURS-SPS,1,1249,Cancelled,NURS,616,"3         ",Management of Decision Support,17297,NULL,2024-08-28,2024-12-21,SPS01_NURS_616_1249_17297,10
+NURS-SPS,1,1249,Cancelled,NURS,619,"3         ",Nursing Informatics Practicum,15443,NULL,2024-08-28,2024-12-21,SPS01_NURS_619_1249_15443,10
+NURS-SPS,1,1249,Cancelled,NURS,622,"2         ",Nursing Quality and Safety Pln,17298,NULL,2024-08-28,2024-12-21,SPS01_NURS_622_1249_17298,10
+NURS-SPS,1,1249,Cancelled,NURS,622,"3         ",Nursing Quality and Safety Pln,17299,NULL,2024-08-28,2024-12-21,SPS01_NURS_622_1249_17299,10
+NURS-SPS,1,1249,Cancelled,NURS,623,"2         ",Transfr Nursing Ldrshp in Comm,17300,NULL,2024-08-28,2024-12-21,SPS01_NURS_623_1249_17300,10
+NURS-SPS,1,1249,Cancelled,NURS,623,"3         ",Transfr Nursing Ldrshp in Comm,17301,NULL,2024-08-28,2024-12-21,SPS01_NURS_623_1249_17301,10
+NURS-SPS,1,1249,Cancelled,NURS,625,"2         ",Statistics for Advanced Nurs,17302,NULL,2024-08-28,2024-12-21,SPS01_NURS_625_1249_17302,10
+NURS-SPS,1,1249,Cancelled,NURS,625,"3         ",Statistics for Advanced Nurs,17303,NULL,2024-08-28,2024-12-21,SPS01_NURS_625_1249_17303,10
+NURS-SPS,1,1249,Cancelled,NURS,626,"2         ",Advanced Nursing Research,15482,NULL,2024-08-28,2024-12-21,SPS01_NURS_626_1249_15482,10
+NURS-SPS,1,1249,Cancelled,NURS,626,"3         ",Advanced Nursing Research,17304,NULL,2024-08-28,2024-12-21,SPS01_NURS_626_1249_17304,10
+NURS-SPS,1,1249,Cancelled,NURS,630,"2         ",Measurement & Eval in Nursing,17305,NULL,2024-08-28,2024-12-21,SPS01_NURS_630_1249_17305,10
+NURS-SPS,1,1249,Cancelled,NURS,630,"3         ",Measurement & Eval in Nursing,17306,NULL,2024-08-28,2024-12-21,SPS01_NURS_630_1249_17306,10
+NURS-SPS,7W1,1249,Cancelled,NURS,302,"4         ",Health Teaching,30251,NULL,2024-08-28,2024-10-22,SPS01_NURS_302_1249_30251,10
+NURS-SPS,7W2,1249,Cancelled,NURS,301,"4         ",Health Assessment,30250,NULL,2024-10-23,2024-12-21,SPS01_NURS_301_1249_30250,10
+PSY-SPS,1,1249,Active,PSY,308,"1         ",Soc & Emot Devel In Childhood,15726,"Fritz-Avellino,Christina V",2024-08-28,2024-12-21,SPS01_PSY_308_1249_15726,10
+PSY-SPS,1,1249,Active,PSY,308,"2         ",Soc & Emot Devel In Childhood,15727,"Fritz-Avellino,Christina V",2024-08-28,2024-12-21,SPS01_PSY_308_1249_15727,10
+PSY-SPS,1,1249,Active,PSY,240,"1         ",Social Psychology,29868,"Anderson-Buckley,Anjali K",2024-08-28,2024-12-21,SPS01_PSY_240_1249_29868,10
+PSY-SPS,1,1249,Active,PSY,650,"1         ",Perspect Develpmnt Psych,15510,"Starkey,Leighann Nicole",2024-08-28,2024-12-21,SPS01_PSY_650_1249_15510,10
+PSY-SPS,1,1249,Active,PSY,685,"1         ",Group Dynamics,29893,"Pulizzi,Allison Leonora",2024-08-28,2024-12-21,SPS01_PSY_685_1249_29893,10
+PSY-SPS,1,1249,Active,PSY,698,"2         ",Psychology Capstone Project I,29895,"Pulizzi,Allison Leonora",2024-08-28,2024-12-21,SPS01_PSY_698_1249_29895,10
+PSY-SPS,1,1249,Active,PSY,699,"2         ",Psychology Capstone Project II,29897,"Pulizzi,Allison Leonora",2024-08-28,2024-12-21,SPS01_PSY_699_1249_29897,10
+PSY-SPS,1,1249,Active,PSY,220,"1         ",Developmental Psychology,15736,"Marcello,Stephanie C",2024-08-28,2024-12-21,SPS01_PSY_220_1249_15736,10
+PSY-SPS,1,1249,Active,PSY,327,"2         ",Clin Mthds: Theory & Process,15722,"Marcello,Stephanie C",2024-08-28,2024-12-21,SPS01_PSY_327_1249_15722,10
+PSY-SPS,1,1249,Active,PSY,360,"1         ",Abnormal Psychology,15718,"Marcello,Stephanie C",2024-08-28,2024-12-21,SPS01_PSY_360_1249_15718,10
+PSY-SPS,1,1249,Active,RM,201,"7         ",Intro to Research Methods,15571,"Roygardner,Debangshu",2024-08-28,2024-12-21,SPS01_RM_201_1249_15571,10
+PSY-SPS,1,1249,Active,RM,201,"8         ",Intro to Research Methods,15564,"Roygardner,Debangshu",2024-08-28,2024-12-21,SPS01_RM_201_1249_15564,10
+PSY-SPS,1,1249,Active,PSY,302,"4         ",Advanced Research Methods,29876,"Roygardner,Lauren M",2024-08-28,2024-12-21,SPS01_PSY_302_1249_29876,10
+PSY-SPS,1,1249,Active,PSY,337,"1         ",Risk & Resilience In Develop,15721,"Roygardner,Lauren M",2024-08-28,2024-12-21,SPS01_PSY_337_1249_15721,10
+PSY-SPS,1,1249,Active,PSY,600,"1         ",Cognitive Psychology and Learn,29885,"Mahoney,Lauren Anne",2024-08-28,2024-12-21,SPS01_PSY_600_1249_29885,10
+PSY-SPS,1,1249,Active,PSY,600,"2         ",Cognitive Psychology and Learn,29887,"Mahoney,Lauren Anne",2024-08-28,2024-12-21,SPS01_PSY_600_1249_29887,10
+PSY-SPS,1,1249,Active,PSY,605,"2         ",Biological Found of Behavior,29888,"Mahoney,Lauren Anne",2024-08-28,2024-12-21,SPS01_PSY_605_1249_29888,10
+PSY-SPS,1,1249,Active,PSY,610,"1         ",Social Behavior,15517,"Smith,Casey Charice",2024-08-28,2024-12-21,SPS01_PSY_610_1249_15517,10
+PSY-SPS,1,1249,Active,PSY,210,"1         ",Biological Bases of Behavior,15739,"Hollander,Shlomo Z",2024-08-28,2024-12-21,SPS01_PSY_210_1249_15739,10
+PSY-SPS,1,1249,Active,PSY,210,"2         ",Biological Bases of Behavior,15741,"Hollander,Shlomo Z",2024-08-28,2024-12-21,SPS01_PSY_210_1249_15741,10
+PSY-SPS,1,1249,Active,PSY,327,"1         ",Clin Mthds: Theory & Process,15724,"Rabenstein,Kelly P",2024-08-28,2024-12-21,SPS01_PSY_327_1249_15724,10
+PSY-SPS,1,1249,Active,PSY,340,"1         ",Contemp Issues/Adult & Aging,15717,"Gourrier,Giselle L",2024-08-28,2024-12-21,SPS01_PSY_340_1249_15717,10
+PSY-SPS,1,1249,Active,PSY,499,"1         ",Capstone: Social on Individual,29881,"Gourrier,Giselle L",2024-08-28,2024-12-21,SPS01_PSY_499_1249_29881,10
+PSY-SPS,1,1249,Active,PSY,499,"2         ",Capstone: Social on Individual,29882,"Gourrier,Giselle L",2024-08-28,2024-12-21,SPS01_PSY_499_1249_29882,10
+PSY-SPS,1,1249,Active,PSY,605,"1         ",Biological Found of Behavior,15520,"Hollander,Shlomo Z",2024-08-28,2024-12-21,SPS01_PSY_605_1249_15520,10
+PSY-SPS,1,1249,Active,PSY,620,"1         ",Psychopathology,15515,"Rabenstein,Kelly P",2024-08-28,2024-12-21,SPS01_PSY_620_1249_15515,10
+PSY-SPS,1,1249,Active,PSY,655,"1         ",Child & Adolescent Development,15509,"Matthews,Elizabeth",2024-08-28,2024-12-21,SPS01_PSY_655_1249_15509,10
+PSY-SPS,1,1249,Active,RM,201,"4         ",Intro to Research Methods,15568,"Rabenstein,Kelly P",2024-08-28,2024-12-21,SPS01_RM_201_1249_15568,10
+PSY-SPS,1,1249,Active,PSY,240,"3         ",Social Psychology,29870,"Perrone,Richard V",2024-08-28,2024-12-21,SPS01_PSY_240_1249_29870,10
+PSY-SPS,1,1249,Active,PSY,240,"4         ",Social Psychology,29871,"Perrone,Richard V",2024-08-28,2024-12-21,SPS01_PSY_240_1249_29871,10
+PSY-SPS,1,1249,Active,PSY,630,"2         ",Advanced Research Methods,29890,"Perrone,Richard V",2024-08-28,2024-12-21,SPS01_PSY_630_1249_29890,10
+PSY-SPS,1,1249,Active,PSY,635,"1         ",Intro-Industrial/Org Psych,15513,"Sywulak,Laura Ann",2024-08-28,2024-12-21,SPS01_PSY_635_1249_15513,10
+PSY-SPS,1,1249,Active,RM,201,"3         ",Intro to Research Methods,15567,"Sywulak,Laura Ann",2024-08-28,2024-12-21,SPS01_RM_201_1249_15567,10
+PSY-SPS,1,1249,Active,PSY,315,"1         ",The Psychology of Work,15725,"Hoffman,Ashley J",2024-08-28,2024-12-21,SPS01_PSY_315_1249_15725,10
+PSY-SPS,1,1249,Active,PSY,315,"2         ",The Psychology of Work,15723,"Weinstein,Dianne",2024-08-28,2024-12-21,SPS01_PSY_315_1249_15723,10
+PSY-SPS,1,1249,Active,PSY,340,"2         ",Contemp Issues/Adult & Aging,15720,"Oestmann,Joanne",2024-08-28,2024-12-21,SPS01_PSY_340_1249_15720,10
+PSY-SPS,1,1249,Active,PSY,630,"1         ",Advanced Research Methods,15508,"Elisha,Isabelle",2024-08-28,2024-12-21,SPS01_PSY_630_1249_15508,10
+PSY-SPS,1,1249,Active,PSY,660,"1         ",Adult Development,29892,"Oestmann,Joanne",2024-08-28,2024-12-21,SPS01_PSY_660_1249_29892,10
+PSY-SPS,1,1249,Active,PSY,698,"1         ",Psychology Capstone Project I,29894,"Elisha,Isabelle",2024-08-28,2024-12-21,SPS01_PSY_698_1249_29894,10
+PSY-SPS,1,1249,Active,PSY,699,"1         ",Psychology Capstone Project II,29896,"Elisha,Isabelle",2024-08-28,2024-12-21,SPS01_PSY_699_1249_29896,10
+PSY-SPS,1,1249,Active,PSY,101,"1         ",Introduction to Psychology,29864,"Zanders,Carley",2024-08-28,2024-12-21,SPS01_PSY_101_1249_29864,10
+PSY-SPS,1,1249,Active,PSY,101,"3         ",Introduction to Psychology,29866,"Zanders,Carley",2024-08-28,2024-12-21,SPS01_PSY_101_1249_29866,10
+PSY-SPS,1,1249,Active,PSY,301,"1         ",Statistics for Psychology,29872,"Johnson,Jill M",2024-08-28,2024-12-21,SPS01_PSY_301_1249_29872,10
+PSY-SPS,1,1249,Active,PSY,301,"2         ",Statistics for Psychology,29874,"Johnson,Jill M",2024-08-28,2024-12-21,SPS01_PSY_301_1249_29874,10
+PSY-SPS,1,1249,Active,PSY,302,"1         ",Advanced Research Methods,15728,"Hansen,Chelsea",2024-08-28,2024-12-21,SPS01_PSY_302_1249_15728,10
+PSY-SPS,1,1249,Active,PSY,302,"3         ",Advanced Research Methods,15734,"Aidala,Zachary",2024-08-28,2024-12-21,SPS01_PSY_302_1249_15734,10
+PSY-SPS,1,1249,Active,PSY,348,"1         ",Small Group Processes,15716,"Pasha,Nausheen",2024-08-28,2024-12-21,SPS01_PSY_348_1249_15716,10
+PSY-SPS,1,1249,Active,PSY,498,"1         ",PSY-Everyday Life,29878,"Hansen,Chelsea",2024-08-28,2024-12-21,SPS01_PSY_498_1249_29878,10
+PSY-SPS,1,1249,Active,PSY,498,"2         ",PSY-Everyday Life,29879,"Johnson,Jill M",2024-08-28,2024-12-21,SPS01_PSY_498_1249_29879,10
+PSY-SPS,1,1249,Active,PSY,670,"1         ",Cognitive Development,15507,"Hansen,Chelsea",2024-08-28,2024-12-21,SPS01_PSY_670_1249_15507,10
+PSY-SPS,1,1249,Active,PSY,230,"1         ",Learning and Cognition,15730,"Field,Caitlin",2024-08-28,2024-12-21,SPS01_PSY_230_1249_15730,10
+PSY-SPS,1,1249,Active,PSY,240,"2         ",Social Psychology,29869,"Isaac,Nikia C",2024-08-28,2024-12-21,SPS01_PSY_240_1249_29869,10
+PSY-SPS,1,1249,Active,PSY,302,"2         ",Advanced Research Methods,15732,"Camire,Ryan M",2024-08-28,2024-12-21,SPS01_PSY_302_1249_15732,10
+PSY-SPS,1,1249,Active,PSY,640,"1         ",Org Devel & Effectiveness,15512,"Diaz,Clemente",2024-08-28,2024-12-21,SPS01_PSY_640_1249_15512,10
+PSY-SPS,1,1249,Active,RM,201,"1         ",Intro to Research Methods,15565,"Camire,Ryan M",2024-08-28,2024-12-21,SPS01_RM_201_1249_15565,10
+PSY-SPS,1,1249,Active,RM,201,"2         ",Intro to Research Methods,15566,"Camire,Ryan M",2024-08-28,2024-12-21,SPS01_RM_201_1249_15566,10
+PSY-SPS,1,1249,Active,PSY,675,"1         ",Atypical Development,15506,"Lally,Tara M",2024-08-28,2024-12-21,SPS01_PSY_675_1249_15506,10
+PSY-SPS,1,1249,Active,RM,201,"5         ",Intro to Research Methods,15569,"Lally,Tara M",2024-08-28,2024-12-21,SPS01_RM_201_1249_15569,10
+PSY-SPS,1,1249,Active,RM,201,"6         ",Intro to Research Methods,15570,"Lally,Tara M",2024-08-28,2024-12-21,SPS01_RM_201_1249_15570,10
+PSY-SPS,1,1249,Active,PSY,210,"3         ",Biological Bases of Behavior,15742,"Sadik,Suhad",2024-08-28,2024-12-21,SPS01_PSY_210_1249_15742,10
+PSY-SPS,1,1249,Active,PSY,230,"2         ",Learning and Cognition,15733,"Bielek,Sara",2024-08-28,2024-12-21,SPS01_PSY_230_1249_15733,10
+PSY-SPS,1,1249,Active,PSY,230,"3         ",Learning and Cognition,15731,"Bielek,Sara",2024-08-28,2024-12-21,SPS01_PSY_230_1249_15731,10
+PSY-SPS,1,1249,Active,PSY,230,"4         ",Learning and Cognition,15729,"Bielek,Sara",2024-08-28,2024-12-21,SPS01_PSY_230_1249_15729,10
+PSY-SPS,1,1249,Active,PSY,301,"3         ",Statistics for Psychology,29875,"Sadik,Suhad",2024-08-28,2024-12-21,SPS01_PSY_301_1249_29875,10
+PSY-SPS,1,1249,Active,PSY,625,"1         ",Advanced Statistics,15514,"Sadik,Suhad",2024-08-28,2024-12-21,SPS01_PSY_625_1249_15514,10
+PSY-SPS,1,1249,Active,PSY,101,"2         ",Introduction to Psychology,29865,NULL,2024-08-28,2024-12-21,SPS01_PSY_101_1249_29865,10
+PSY-SPS,1,1249,Active,PSY,101,"4         ",Introduction to Psychology,29867,NULL,2024-08-28,2024-12-21,SPS01_PSY_101_1249_29867,10
+PSY-SPS,1,1249,Active,PSY,210,"4         ",Biological Bases of Behavior,15740,NULL,2024-08-28,2024-12-21,SPS01_PSY_210_1249_15740,10
+PSY-SPS,1,1249,Active,PSY,220,"2         ",Developmental Psychology,15738,NULL,2024-08-28,2024-12-21,SPS01_PSY_220_1249_15738,10
+PSY-SPS,1,1249,Active,PSY,220,"3         ",Developmental Psychology,15735,NULL,2024-08-28,2024-12-21,SPS01_PSY_220_1249_15735,10
+PSY-SPS,1,1249,Active,PSY,220,"4         ",Developmental Psychology,15737,NULL,2024-08-28,2024-12-21,SPS01_PSY_220_1249_15737,10
+PSY-SPS,1,1249,Active,PSY,308,"3         ",Soc & Emot Devel In Childhood,32689,NULL,2024-08-28,2024-12-21,SPS01_PSY_308_1249_32689,10
+PSY-SPS,1,1249,Active,PSY,327,"3         ",Clin Mthds: Theory & Process,32691,NULL,2024-08-28,2024-12-21,SPS01_PSY_327_1249_32691,10
+PSY-SPS,1,1249,Active,PSY,337,"2         ",Risk & Resilience In Develop,33016,NULL,2024-08-28,2024-12-21,SPS01_PSY_337_1249_33016,10
+PSY-SPS,1,1249,Active,PSY,340,"3         ",Contemp Issues/Adult & Aging,15719,NULL,2024-08-28,2024-12-21,SPS01_PSY_340_1249_15719,10
+PSY-SPS,1,1249,Active,PSY,360,"2         ",Abnormal Psychology,32692,NULL,2024-08-28,2024-12-21,SPS01_PSY_360_1249_32692,10
+PSY-SPS,1,1249,Active,PSY,360,"3         ",Abnormal Psychology,32693,NULL,2024-08-28,2024-12-21,SPS01_PSY_360_1249_32693,10
+PSY-SPS,1,1249,Active,PSY,498,"3         ",PSY-Everyday Life,29880,NULL,2024-08-28,2024-12-21,SPS01_PSY_498_1249_29880,10
+PSY-SPS,1,1249,Active,PSY,499,"3         ",Capstone: Social on Individual,29883,NULL,2024-08-28,2024-12-21,SPS01_PSY_499_1249_29883,10
+PSY-SPS,1,1249,Active,PSY,610,"2         ",Social Behavior,29889,NULL,2024-08-28,2024-12-21,SPS01_PSY_610_1249_29889,10
+PSY-SPS,1,1249,Active,PSY,615,"1         ",Theories of Personality,15516,NULL,2024-08-28,2024-12-21,SPS01_PSY_615_1249_15516,10
+PSY-SPS,1,1249,Cancelled,PSY,645,"1         ",Perf Mgmt & Motivation,15511,NULL,2024-08-28,2024-12-21,SPS01_PSY_645_1249_15511,10
+PSY-SPS,1,1249,Cancelled,PSY,680,"1         ",Personnel Selection,15505,NULL,2024-08-28,2024-12-21,SPS01_PSY_680_1249_15505,10
+PSY-SPS,1,1249,Active,RM,201,"9         ",Intro to Research Methods,32688,NULL,2024-08-28,2024-12-21,SPS01_RM_201_1249_32688,10
+PSY-SPS,7W1,1249,Active,PSY,101,"5         ",Introduction to Psychology,34120,NULL,2024-08-28,2024-10-22,SPS01_PSY_101_1249_34120,10
+PSY-SPS,7W1,1249,Active,RM,201,"10        ",Intro to Research Methods,34121,NULL,2024-08-28,2024-10-22,SPS01_RM_201_1249_34121,10
+PSY-SPS,7W2,1249,Active,PSY,301,"4         ",Statistics for Psychology,34123,NULL,2024-10-23,2024-12-21,SPS01_PSY_301_1249_34123,10
+PSY-SPS,7W2,1249,Active,RM,201,"11        ",Intro to Research Methods,34122,NULL,2024-10-23,2024-12-21,SPS01_RM_201_1249_34122,10
+SPS-SPS,1,1249,Active,RAC,699,"1         ",Research Admin Comp Practicum,15450,"Schaller-Demers,Debra S",2024-08-28,2024-12-21,SPS01_RAC_699_1249_15450,10
+SPS-SPS,1,1249,Active,RAC,602,"1         ",Intro Clin Res&Compliance,15451,"Gagliardi,Rosemarie",2024-08-28,2024-12-21,SPS01_RAC_602_1249_15451,10
+SPS-SPS,1,1249,Active,RAC,651,"1         ",Ethical Issues in Clinical Res,15452,"Silverman,Henry J",2024-08-28,2024-12-21,SPS01_RAC_651_1249_15452,10
+SPS-SPS,1,1249,Active,RAC,612,"1         ",Intellectual Property,15453,"Sterns,Anthony A",2024-08-28,2024-12-21,SPS01_RAC_612_1249_15453,10
+SPS-SPS,1,1249,Active,RAC,600,"1         ",Intro Research Admin,15454,"Casey Jr,James",2024-08-28,2024-12-21,SPS01_RAC_600_1249_15454,10
+SOC-SPS,1,1249,Active,SOC,304,"1         ",Global Culture and Diversity,15782,"Martino-Velez,Leslie Ann",2024-08-28,2024-12-21,SPS01_SOC_304_1249_15782,10
+SOC-SPS,1,1249,Active,HRL,270,"1         ",Human Relations in Mgmt,22169,"Brown,Danette Lashaun",2024-08-28,2024-12-21,SPS01_HRL_270_1249_22169,10
+SOC-SPS,1,1249,Active,HRL,200,"1         ",Foundations of Human Relations,15582,"Roldan Rivera,Jose H",2024-08-28,2024-12-21,SPS01_HRL_200_1249_15582,10
+SOC-SPS,1,1249,Active,HRL,200,"2         ",Foundations of Human Relations,15583,"Brown-Alphonse,Jenia",2024-08-28,2024-12-21,SPS01_HRL_200_1249_15583,10
+SOC-SPS,1,1249,Active,SOC,215,"2         ",Soc of Work and Organizations,15437,"Roldan Rivera,Jose H",2024-08-28,2024-12-21,SPS01_SOC_215_1249_15437,10
+SOC-SPS,1,1249,Active,HRL,320,"1         ",Res Methods In The Workplace,15491,"Martucci,Sara Lucia",2024-08-28,2024-12-21,SPS01_HRL_320_1249_15491,10
+SOC-SPS,1,1249,Active,SOC,203,"2         ","Race, Class and Gender",15786,"Medina,Daniela Melo",2024-08-28,2024-12-21,SPS01_SOC_203_1249_15786,10
+SOC-SPS,1,1249,Active,HRL,210,"1         ",Interperson & Group Comm,15581,"Richardson,Kelsey",2024-08-28,2024-12-21,SPS01_HRL_210_1249_15581,10
+SOC-SPS,1,1249,Active,ORGD,341,"1         ",Organiz Behav & Change,15574,"Sywulak,Laura Ann",2024-08-28,2024-12-21,SPS01_ORGD_341_1249_15574,10
+SOC-SPS,1,1249,Active,SOC,215,"1         ",Soc of Work and Organizations,15435,"Oglensky,Bonnie D",2024-08-28,2024-12-21,SPS01_SOC_215_1249_15435,10
+SOC-SPS,1,1249,Active,SOC,319,"1         ",Self and Social Interaction,15781,"Anderson,Terri L",2024-08-28,2024-12-21,SPS01_SOC_319_1249_15781,10
+SOC-SPS,1,1249,Active,SOC,340,"1         ",Sociology of Sex & Gender,24977,"Anderson,Terri L",2024-08-28,2024-12-21,SPS01_SOC_340_1249_24977,10
+SOC-SPS,1,1249,Active,SOC,390,"1         ",Cntmp Perpec Immigrants,15434,"Kolker,Abigail F",2024-08-28,2024-12-21,SPS01_SOC_390_1249_15434,10
+SOC-SPS,1,1249,Active,SOC,490,"1         ",Ethnography,15778,"Kolker,Abigail F",2024-08-28,2024-12-21,SPS01_SOC_490_1249_15778,10
+SOC-SPS,1,1249,Active,SOC,302,"1         ",Social Statistics,15780,"Bharali,Kannaki",2024-08-28,2024-12-21,SPS01_SOC_302_1249_15780,10
+SOC-SPS,1,1249,Active,SOC,310,"1         ",Found Sociological Theory,15783,"Bharali,Kannaki",2024-08-28,2024-12-21,SPS01_SOC_310_1249_15783,10
+SOC-SPS,1,1249,Active,SOC,499,"1         ",Senior Capstone,15775,"Bharali,Kannaki",2024-08-28,2024-12-21,SPS01_SOC_499_1249_15775,10
+SOC-SPS,1,1249,Active,HRL,210,"2         ",Interperson & Group Comm,15584,"Scull,Lianna L",2024-08-28,2024-12-21,SPS01_HRL_210_1249_15584,10
+SOC-SPS,1,1249,Active,ORGD,341,"2         ",Organiz Behav & Change,15575,"Nixon,Dorothea",2024-08-28,2024-12-21,SPS01_ORGD_341_1249_15575,10
+SOC-SPS,1,1249,Active,SOC,101,"2         ",Introduction to Sociology,15349,"Levy,Antonia M",2024-08-28,2024-12-21,SPS01_SOC_101_1249_15349,10
+SOC-SPS,1,1249,Active,HRL,350,"1         ",Eth/Legal Dimen of Hum Rel,22170,"Newman,Sara D",2024-08-28,2024-12-21,SPS01_HRL_350_1249_22170,10
+SOC-SPS,1,1249,Active,HRL,499,"1         ",Human Relations Capstone,15577,"Newman,Sara D",2024-08-28,2024-12-21,SPS01_HRL_499_1249_15577,10
+SOC-SPS,1,1249,Active,SOC,101,"1         ",Introduction to Sociology,15348,"Lorek,Melanie",2024-08-28,2024-12-21,SPS01_SOC_101_1249_15348,10
+SOC-SPS,1,1249,Active,SOC,270,"1         ",Environmental Sociology,15415,"Lorek,Melanie",2024-08-28,2024-12-21,SPS01_SOC_270_1249_15415,10
+SOC-SPS,1,1249,Active,SOC,380,"1         ",Independent Study,53856,"Lorek,Melanie",2024-08-28,2024-12-21,SPS01_SOC_380_1249_53856,10
+SOC-SPS,1,1249,Active,ILAW,602,"1         ",Immigration Business Law,15399,"Bali,Shruti",2024-08-28,2024-12-21,SPS01_ILAW_602_1249_15399,10
+SOC-SPS,1,1249,Active,SOC,208,"1         ",Urban Sociology,15784,"Halle,David",2024-08-28,2024-12-21,SPS01_SOC_208_1249_15784,10
+SOC-SPS,1,1249,Active,ILAW,601,"1         ",Intr Immigration Law,15345,"Dhar,Meetu",2024-08-28,2024-12-21,SPS01_ILAW_601_1249_15345,10
+SOC-SPS,1,1249,Active,ILAW,603,"1         ",Immigration Court,15328,"Dhar,Meetu",2024-08-28,2024-12-21,SPS01_ILAW_603_1249_15328,10
+SOC-SPS,1,1249,Active,HRL,250,"1         ",Adult Learning - Workplace,22168,NULL,2024-08-28,2024-12-21,SPS01_HRL_250_1249_22168,10
+SOC-SPS,1,1249,Cancelled,HRL,380,"1         ",Conflict in Human Relations,15580,NULL,2024-08-28,2024-12-21,SPS01_HRL_380_1249_15580,10
+SOC-SPS,1,1249,Active,HRL,380,"2         ",Conflict in Human Relations,15579,NULL,2024-08-28,2024-12-21,SPS01_HRL_380_1249_15579,10
+SOC-SPS,1,1249,Cancelled,HRL,380,"3         ",Conflict in Human Relations,15578,NULL,2024-08-28,2024-12-21,SPS01_HRL_380_1249_15578,10
+SOC-SPS,1,1249,Cancelled,HRL,499,"2         ",Human Relations Capstone,15576,NULL,2024-08-28,2024-12-21,SPS01_HRL_499_1249_15576,10
+SOC-SPS,1,1249,Active,SOC,203,"1         ","Race, Class and Gender",15785,NULL,2024-08-28,2024-12-21,SPS01_SOC_203_1249_15785,10
+SOC-SPS,1,1249,Active,SOC,203,"3         ","Race, Class and Gender",15789,NULL,2024-08-28,2024-12-21,SPS01_SOC_203_1249_15789,10
+SOC-SPS,1,1249,Active,SOC,207,"1         ",Intro to Criminal Justice,22171,NULL,2024-08-28,2024-12-21,SPS01_SOC_207_1249_22171,10
+SOC-SPS,1,1249,Cancelled,SOC,499,"2         ",Senior Capstone,15776,NULL,2024-08-28,2024-12-21,SPS01_SOC_499_1249_15776,10
+SPS-SPS,1,1249,Active,MST,620,"1         ",Museum Educ & Interpret,15446,"Hayes,Leslie A/Paige,Olivia M",2024-08-28,2024-12-21,SPS01_MST_620_1249_15446,10
+SPS-SPS,1,1249,Active,MST,690,"1         ",Special Topics in Museum Studi,15438,"Coplin,Jennifer Anne",2024-08-28,2024-12-21,SPS01_MST_690_1249_15438,10
+SPS-SPS,1,1249,Active,MST,642,"1         ",Public History/Women?s History,15441,"Mahoney,Nicole L",2024-08-28,2024-12-21,SPS01_MST_642_1249_15441,10
+SPS-SPS,1,1249,Active,MST,630,"1         ","Museum Admin, Finance, & Law",15448,"Shein,Richard A",2024-08-28,2024-12-21,SPS01_MST_630_1249_15448,10
+SPS-SPS,1,1249,Active,MST,650,"1         ",Digital Media and the Museum,15440,"Noyes,Pauline M",2024-08-28,2024-12-21,SPS01_MST_650_1249_15440,10
+SPS-SPS,1,1249,Active,MST,600,"1         ",History and Theory of Museums,15449,"Romano,Renee C",2024-08-28,2024-12-21,SPS01_MST_600_1249_15449,10
+SPS-SPS,1,1249,Active,MST,699,"1         ",Capstone Project,15442,"Paley,Valerie",2024-08-28,2024-12-21,SPS01_MST_699_1249_15442,10
+SPS-SPS,1,1249,Active,MST,610,"1         ",Curatorial Theory/Exhibit Dsgn,15447,NULL,2024-08-28,2024-12-21,SPS01_MST_610_1249_15447,10
+SPS-SPS,1,1249,Cancelled,MST,660,"1         ","Development, Fundraising, and",15439,NULL,2024-08-28,2024-12-21,SPS01_MST_660_1249_15439,10
+YS-SPS,1,1249,Active,YS,302,"1         ",Community and Youth Activism,15411,"Juarez Mendoza,Andrea N.",2024-08-28,2024-12-21,SPS01_YS_302_1249_15411,10
+YS-SPS,1,1249,Active,YS,602,"1         ",Youth Action & Agency,15669,"Juarez Mendoza,Andrea N.",2024-08-28,2024-12-21,SPS01_YS_602_1249_15669,10
+YS-SPS,1,1249,Active,YS,699,"1         ",Youth Studies Capstone Course,15497,"Zeller-Berkman,Sarah M.",2024-08-28,2024-12-21,SPS01_YS_699_1249_15497,10
+YS-SPS,1,1249,Active,YS,402,"1         ",Social Group Work with Youth,22087,"Herrera,Karla Vanessa",2024-08-28,2024-12-21,SPS01_YS_402_1249_22087,10
+YS-SPS,1,1249,Active,YS,306,"1         ",Design Curric/Diverse Learn,15410,"Johnson-Smith,Eris B",2024-08-28,2024-12-21,SPS01_YS_306_1249_15410,10
+YS-SPS,1,1249,Active,YS,312,"1         ",Transformative Justice,22089,"Hamilton,Nicole Tene",2024-08-28,2024-12-21,SPS01_YS_312_1249_22089,10
+YS-SPS,1,1249,Active,YS,604,"1         ",Adolescent Sexual Health,15666,"Roygardner,Debangshu",2024-08-28,2024-12-21,SPS01_YS_604_1249_15666,10
+YS-SPS,1,1249,Active,YS,310,"1         ",R&E:Pos Youth Devel,22090,"Mui,Stephanie Alice",2024-08-28,2024-12-21,SPS01_YS_310_1249_22090,10
+YS-SPS,1,1249,Active,YS,639,"1         ",Youth Studies Research Methods,15499,"Bishop,Elizabeth M",2024-08-28,2024-12-21,SPS01_YS_639_1249_15499,10
+YS-SPS,1,1249,Active,YS,639,"2         ",Youth Studies Research Methods,15498,"Bishop,Elizabeth M",2024-08-28,2024-12-21,SPS01_YS_639_1249_15498,10
+YS-SPS,1,1249,Active,YS,308,"1         ",Crit Disability:Youth Perspect,15409,"Hollins,Whitney Q",2024-08-28,2024-12-21,SPS01_YS_308_1249_15409,10
+YS-SPS,1,1249,Active,YS,314,"1         ",Youth Policy,15408,"Jankstrom,Laura M",2024-08-28,2024-12-21,SPS01_YS_314_1249_15408,10
+YS-SPS,1,1249,Active,YS,499,"1         ",Youth Studies Capstone,22088,"Hollins,Whitney Q",2024-08-28,2024-12-21,SPS01_YS_499_1249_22088,10
+YS-SPS,1,1249,Active,YS,600,"1         ",Construct of Adolescence - US,15668,"Hollins,Whitney Q",2024-08-28,2024-12-21,SPS01_YS_600_1249_15668,10
+YS-SPS,1,1249,Active,YS,600,"2         ",Construct of Adolescence - US,15670,"Hollins,Whitney Q",2024-08-28,2024-12-21,SPS01_YS_600_1249_15670,10
+YS-SPS,1,1249,Active,YS,620,"1         ",Prac: Design&Run Qual Prgms,15500,"Curry,Jennifer L",2024-08-28,2024-12-21,SPS01_YS_620_1249_15500,10
+YS-SPS,1,1249,Active,YS,699,"2         ",Youth Studies Capstone Course,22006,"Smith,Lakersha L",2024-08-28,2024-12-21,SPS01_YS_699_1249_22006,10
+YS-SPS,1,1249,Active,YS,422,"1         ",Independent Research in YS,15407,"Castillo,Rachel",2024-08-28,2024-12-21,SPS01_YS_422_1249_15407,10
+YS-SPS,1,1249,Active,YS,649,"1         ",Youth Studies Indpndnt Study,31769,"Castillo,Rachel",2024-08-28,2024-12-21,SPS01_YS_649_1249_31769,10
+YS-SPS,1,1249,Active,YS,370,"1         ",Special Topics in Youth Study,22086,"Gomez,Lissette",2024-08-28,2024-12-21,SPS01_YS_370_1249_22086,10
+YS-SPS,1,1249,Active,YS,603,"1         ",Working Group with Youth,15667,"Burack,Heather",2024-08-28,2024-12-21,SPS01_YS_603_1249_15667,10
+YS-SPS,1,1249,Active,YS,611,"1         ",Youth Policy,15501,"Ozier,Lance W",2024-08-28,2024-12-21,SPS01_YS_611_1249_15501,10
+YS-SPS,1,1249,Active,YS,610,"1         ",Youth Development,15502,"Hart,Manijeh",2024-08-28,2024-12-21,SPS01_YS_610_1249_15502,10
+YS-SPS,1,1249,Active,YS,610,"2         ",Youth Development,15503,"Hart,Manijeh",2024-08-28,2024-12-21,SPS01_YS_610_1249_15503,10
+YS-SPS,1,1249,Active,YS,210,"1         ",Crit Approach-Positive Youth,15414,NULL,2024-08-28,2024-12-21,SPS01_YS_210_1249_15414,10
+YS-SPS,1,1249,Active,YS,210,"2         ",Crit Approach-Positive Youth,15413,NULL,2024-08-28,2024-12-21,SPS01_YS_210_1249_15413,10
+YS-SPS,1,1249,Active,YS,220,"1         ",Adolescence Past Present Futur,15412,NULL,2024-08-28,2024-12-21,SPS01_YS_220_1249_15412,10
+YS-SPS,1,1249,Active,YS,220,"2         ",Adolescence Past Present Futur,22085,NULL,2024-08-28,2024-12-21,SPS01_YS_220_1249_22085,10
+YS-SPS,1,1249,Tentative,YS,328,"1         ",SAC Credentialing I,31764,NULL,2024-08-28,2024-12-21,SPS01_YS_328_1249_31764,10
+YS-SPS,1,1249,Active,YS,436,"1         ",Youth Dev-Non-Profit Mgmt,48248,NULL,2024-08-28,2024-12-21,SPS01_YS_436_1249_48248,10
+YS-SPS,1,1249,Active,YS,620,"2         ",Prac: Design&Run Qual Prgms,21430,NULL,2024-08-28,2024-12-21,SPS01_YS_620_1249_21430,10
