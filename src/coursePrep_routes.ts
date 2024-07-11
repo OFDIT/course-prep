@@ -34,55 +34,8 @@ const authorizeAndAuthenticateUser = (req: Request, res: Response, next: NextFun
 }
 
 // Routes
-router.get('/', authorizeAndAuthenticateUser, async (req: Request, res: Response, next: NextFunction) => {
-  const metadata: SectionSearchMetadata = {
-    term: String(req.query.term) ?? 'Spring 2024',
-    filter: String(req.query.filter),
-    search: String(req.query.search),
-    recordCount: 0,
-  }
-
-  let response: any
-
-  try {
-    // first lets pull all sections by term and search term (if provided)
-    if (metadata.search === '') {
-      response = await req.app.locals.db
-        .query`select * from uvw_cp_sections order by course`
-      // .query`select * from uvw_cp_sections order by course where term = ${metadata.term}`
-    } else {
-      response = await req.app.locals.db
-        .query`select * from uvw_cp_sections order by course`
-      // .query`select * from uvw_cp_sections order by course where term = ${metadata.term} and course like '%${metadata.search}%'`
-    }
-    // now lets authorize who can see these sections
-    // TODO: figure out with section list we are on and show courses based on that
-    let sections: SectionRecord[] = response.recordset
-    metadata.recordCount = response.rowsAffected[0] ?? 0
-    if (metadata.recordCount === 0) {
-      return res.render('no_sections.html')
-    }
-    if (res.locals.user.program !== 'OFDIT') {
-      sections = sections.filter((section) => {
-        return section.program.includes(res.locals.user.program)
-      })
-    }
-    // TODO: filter the sections
-    if (req.header('hx-request')) {
-      log.info(`${res.locals.user.full_name} pulled section data`, { metadata })
-      return res.render('coursePrep_section_list.html', {
-        sections,
-        metadata,
-      })
-    }
-    log.info(`${res.locals.user.full_name} pulled section data`, { metadata })
-    return res.render('coursePrep.html', {
-      sections,
-      metadata,
-    })
-  } catch (err) {
-    next(err)
-  }
+router.get('/import', async (req: Request, res: Response, next: NextFunction) => {
+  res.render('import.html', { title: 'Import' })
 })
 
 export { router as CoursePrepRouter }
