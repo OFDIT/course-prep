@@ -62,7 +62,7 @@ const worker = new Worker(
   'grizzly-logs',
   async (job) => {
     if (process.env.NODE_ENV !== 'production') {
-      console.log(JSON.stringify(job.data, null, 2))
+      // console.log(JSON.stringify(job.data, null, 2))
     }
   },
   {

@@ -4,12 +4,10 @@ import express, {
   type Response,
   type NextFunction,
 } from 'express'
-import log from './logger.js'
 import type { SectionSearchMetadata, SectionRecord } from './coursePrep_types.js'
 import type { User } from './common_types.js'
 import multer from 'multer'
-import csv from 'csvtojson'
-
+import { importCoursePrepSections } from './controller.js'
 
 const router: Router = express.Router()
 const upload = multer({ dest: 'uploads/' })
@@ -42,27 +40,6 @@ router.get('/import', async (req: Request, res: Response, next: NextFunction) =>
   res.render('import.html', { title: 'Import' })
 })
 
-router.post('/import', upload.single('import'), async (req: Request, res: Response, next: NextFunction) => {
-  const filePath = req.file?.path
-
-  // TODO: throw a proper error and use master error handler
-  if (!filePath) {
-    res.status(400).send('No file uploaded')
-    return
-  }
-
-  const sections = await csv().fromFile(filePath)
-
-  // TODO: 
-  // 1. Validate the data
-  // 2. Create section type
-  // 3. Process sections and transform fields
-  // 4. Load records from json array
-  // 5. Send to DB
-  // 6. Send HTML response
-
-  log.info(`Imported ${sections.length} sections from ${req.file?.originalname}`)
-  res.json(sections)
-})
+router.post('/import', upload.single('import'), importCoursePrepSections)
 
 export { router as CoursePrepRouter }

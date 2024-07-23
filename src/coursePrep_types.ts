@@ -46,3 +46,20 @@ const SectionRecord = z.object({
 })
 
 export type SectionRecord = z.infer<typeof SectionRecord>
+
+export type preprocessedSectionRecord = {
+    acad_org: string,
+    session: string,
+    cf_term_id: number,
+    cf_status: string,
+    course_subject: string,
+    course_number: number,
+    section_number: string,
+    course_title: string,
+    cf_course_id: number,
+    instructor_name?: string,
+    start_date: string,
+    end_date: string,
+    bb_course_id: string,
+    cp_cycle_id: number,
+}

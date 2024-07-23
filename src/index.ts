@@ -11,7 +11,7 @@ import sql from 'mssql'
 import nunjucks from 'nunjucks'
 import { z } from 'zod'
 import log from './logger.js'
-import { CoursePrepRouter } from './coursePrep_routes.js'
+import { CoursePrepRouter } from './routes.js'
 
 export const app: Express = express()
 
@@ -60,12 +60,16 @@ nunjucks.configure('views', {
 app.use('/', CoursePrepRouter)
 
 // Master error function
-app.use((err: unknown, _req: Request, res: Response, _next: NextFunction) => {
-    if (err instanceof Error) {
-        const errorMessage = `${err.name}: ${err.message}`
-        log.error(errorMessage, { error_details: err })
-        res.status(500).send(errorMessage)
+app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
+    if (err.name === 'BadRequestError') {
+        const errorMessage = `400/${err.name}: ${err.message}`
+        log.error(errorMessage, { error_details: err.stack })
+        res.status(400).send(errorMessage)
+        return
     }
+    const errorMessage = `500/${err.name}: ${err.message}`
+    log.error(errorMessage, { error_details: err.stack })
+    res.status(500).send(errorMessage)
 })
 
 // Database
