@@ -8,7 +8,7 @@
         "build": "pnpm tsc",
         "dev:tailwindcss": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
         "dev:transpile": "pnpm tsc --watch",
-        "dev:run": "node .",
+        "dev:run": "nodemon .",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],

@@ -14,13 +14,12 @@ import sql from 'mssql'
 export const importCoursePrepSections = async (req: Request, res: Response, next: NextFunction) => {
     const filePath = req.file?.path
 
-    // TODO: throw a proper error and use master error handler
     if (!filePath) {
         return next(createError(400, 'No file uploaded'))
     }
 
     const importedSections = await csv().fromFile(filePath)
-
+    const sectionsFromCSV = importedSections.length
     // Validate the data
     // TODO: more refined validation
     const columns = Object.keys(importedSections[0])
@@ -141,8 +140,6 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
 
     log.debug(`Removed duplicate records: ${sections.length} sections`)
 
-    // 5. Send to DB
-    //
     // DATABASE WORKFLOW
     // a. Trunate the cp_processed table
     // b. Create table instance
@@ -193,13 +190,9 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
         const responseFromSP = await new sql.Request(req.app.locals.db).execute('usp_cp_merge_import')
 
         log.info(`Imported ${sections.length} sections from ${req.file?.originalname}`)
-        res.json(responseFromSP)
+        res.render('import_success.html', { sectionsImported: sections.length, sectionsFromCSV: sectionsFromCSV })
 
     } catch (err) {
         return next(err)
     }
-
-    // 6. Send HTML response
-
-
 }

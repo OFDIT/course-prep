@@ -21,9 +21,10 @@
             </div>
             <div class="px-4 py-5 sm:p-6">
                 <div><em>Instructions:</em> Please select a cp-import file to import and then click the import button
-                    below. Once the import is finished, please review the output message for any errors or additional
-                    tasks.</div>
-                <form action="/import" method="post" class="mt-5" enctype="multipart/form-data">
+                    below. Once the import is finished, please review the output message for errors, or additional
+                    details.</div>
+                <form hx-post="/import" hx-target="#success" hx-encoding='multipart/form-data' class="mt-5"
+                    enctype="multipart/form-data">
                     <label class="block mb-2 text-sm font-medium" for="file_input">Upload
                         cp-import file</label>
                     <input
@@ -35,6 +36,7 @@
                             Upload import</button>
                     </div>
                 </form>
+                <div id="success"></div>
             </div>
         </div>
     </div>
