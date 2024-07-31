@@ -1,34 +1,21 @@
-{% extends 'base.html' %} {% set title = "Grizzly: CoursePrep" %}
+{% extends 'base.html' %}
 {% block content
 %}
 <div id="app">
     <div>
         <div class="overflow-hidden rounded-lg bg-white shadow">
             <div class="border-b border-gray-200 py-5 px-5 sm:pb-0">
-                <h3 class="text-2xl font-semibold leading-6 text-gray-900">Import</h3>
-                <div class="mt-3 sm:mt-4">
-                    <!-- Dropdown menu on small screens -->
-                    <div class="sm:hidden">
-                        <label for="current-tab" class="sr-only">Select a tab</label>
-                        <select id="current-tab" name="current-tab"
-                            class="block w-full rounded-md border-gray-300 py-2 pl-3 pr-10 text-base focus:border-indigo-500 focus:outline-none focus:ring-indigo-500 sm:text-sm">
-                            <option>Dashboard</option>
-                            <option selected>Import</option>
-                            <option>eReserves</option>
-                        </select>
-                    </div>
-                </div>
+                <h3 class="text-2xl font-semibold leading-6 text-gray-900 sm:mb-5 sm:mt-1">Import</h3>
             </div>
             <div class="px-4 py-5 sm:p-6">
-                <div><em>Instructions:</em> Please select a cp-import file to import and then click the import button
-                    below. Once the import is finished, please review the output message for errors, or additional
-                    details.</div>
-                <form hx-post="/import" hx-target="#success" hx-encoding='multipart/form-data' class="mt-5"
+                <div><em>Instructions:</em> Please select a cp-import csv file and then click the "upload import" button
+                    below. Once the import is finished, please review any of the output below.</div>
+                <form hx-post="/import" hx-target="#success-output" hx-encoding='multipart/form-data' class="mt-5"
                     enctype="multipart/form-data">
                     <label class="block mb-2 text-sm font-medium" for="file_input">Upload
                         cp-import file</label>
                     <input
-                        class="block w-full text-sm border border-gray-300 rounded-lg cursor-pointer bg-gray-100 focus:outline-none"
+                        class="block sm:w-1/2 text-sm border border-gray-300 rounded-lg cursor-pointer bg-gray-100 focus:outline-none"
                         id="file_input" type="file" name="import">
                     <div class="mt-3 flex justify-end">
                         <button type="submit"
@@ -36,7 +23,33 @@
                             Upload import</button>
                     </div>
                 </form>
-                <div id="success"></div>
+                {% if success %}
+                <div id="success-output">
+                    <div class="rounded-md bg-green-50 p-4 mt-5">
+                        <div class="flex">
+                            <div class="flex-shrink-0">
+                                <svg class="h-5 w-5 text-green-400" viewBox="0 0 20 20" fill="currentColor"
+                                    aria-hidden="true">
+                                    <path fill-rule="evenodd"
+                                        d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z"
+                                        clip-rule="evenodd" />
+                                </svg>
+                            </div>
+                            <div class="ml-3">
+                                <h3 class="text-sm font-medium text-green-800">Import successful</h3>
+                                <div class="mt-2 text-sm text-green-700">
+                                    <p>Import was successful. A total of {{ sectionsImported }} sections were imported
+                                        from {{
+                                        sectionsFromCSV
+                                        }} records in the csv.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                {% endif %}
             </div>
         </div>
     </div>
