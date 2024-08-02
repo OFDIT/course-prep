@@ -1,3 +1,4 @@
+import fs from 'node:fs'
 import express, {
     type Request,
     type Response,
@@ -139,6 +140,14 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
     sections = removeDuplicates(sections)
 
     log.debug(`Removed duplicate records: ${sections.length} sections`)
+    const content = JSON.stringify(sections)
+    fs.writeFile('./references/sections.json', content, err => {
+        if (err) {
+            console.error(err);
+        } else {
+            // file written successfully
+        }
+    });
 
     // DATABASE WORKFLOW
     // a. Trunate the cp_processed table
@@ -190,7 +199,7 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
         const responseFromSP = await new sql.Request(req.app.locals.db).execute('usp_cp_merge_import')
 
         log.info(`Imported ${sections.length} sections from ${req.file?.originalname}`)
-        res.render('import_success.html', { sectionsImported: sections.length, sectionsFromCSV: sectionsFromCSV })
+        res.render('includes/success_output.html', { success: true, sectionsImported: sections.length, sectionsFromCSV: sectionsFromCSV, responseFromSP: responseFromSP.recordset })
 
     } catch (err) {
         return next(err)
