@@ -78,7 +78,7 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
     }
 
     const transformBBCourseIDs = (section: preprocessedSectionRecord) => {
-        return `SPS01_${section.course_subject}_${section.course_number}_${section.cf_course_id}_${section.cf_term_id}`
+        return `SPS01_${section.course_subject}_${section.course_number}_${section.cf_term_id}_${section.cf_course_id}`
     }
 
     sections = sections.map((section: preprocessedSectionRecord) => {
