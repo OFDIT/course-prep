@@ -41,5 +41,9 @@ router.get('/import', async (req: Request, res: Response, next: NextFunction) =>
 })
 
 router.post('/import', upload.single('import'), importCoursePrepSections)
-
+router.get('/sections', async (req: Request, res: Response, next: NextFunction) => {
+  if (req.query.filter) {
+    console.log(req.query.filter)
+  }
+})
 export { router as CoursePrepRouter }
