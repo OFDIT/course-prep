@@ -4,7 +4,7 @@ import express, {
   type Response,
   type NextFunction,
 } from 'express'
-import type { SectionSearchMetadata, SectionRecord } from './coursePrep_types.js'
+import type { SectionSearchMetadata, SectionRecord } from './cp_types.js'
 import type { User } from './common_types.js'
 import multer from 'multer'
 import { importCoursePrepSections } from './controller.js'

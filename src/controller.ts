@@ -3,12 +3,11 @@ import express, {
     type Request,
     type Response,
     type NextFunction,
-    response,
 } from 'express'
 import csv from 'csvtojson'
 import log from './logger.js'
 import createError from 'http-errors'
-import type { preprocessedSectionRecord } from './coursePrep_types.js'
+import type { preprocessedSectionRecord } from './cp_types.js'
 import Logger from './logger.js'
 import sql from 'mssql'
 
@@ -47,7 +46,7 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
             bb_course_id: String(section['Blackboard Course ID']),
             instructor_name: String(section.Name),
             // FIXME: Generate cp_cycle_id instead of using a hardcoded value
-            cp_cycle_id: 10,
+            cp_cycle_id: Number(section.Session === 'WIN' ? 11 : 12),
         }
         return preprocessedSection
     })
@@ -140,14 +139,6 @@ export const importCoursePrepSections = async (req: Request, res: Response, next
     sections = removeDuplicates(sections)
 
     log.debug(`Removed duplicate records: ${sections.length} sections`)
-    const content = JSON.stringify(sections)
-    fs.writeFile('./references/sections.json', content, err => {
-        if (err) {
-            console.error(err);
-        } else {
-            // file written successfully
-        }
-    });
 
     // DATABASE WORKFLOW
     // a. Trunate the cp_processed table
